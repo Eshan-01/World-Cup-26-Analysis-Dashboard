@@ -213,14 +213,14 @@ def load_data():
         star = players.iloc[0]['Player'] if len(players) > 0 else "Key Selection"
         
         if elo > 1950:
-            hist = f"Multiple historical trophies or consistent deep tournament legacy tracks. Enters as a clear favorite."
-            style = "High possession dominance, territorial strangulation, fast high-pressing turnover structures."
+            hist = f"A clear favorite with a consistent legacy of deep tournament runs and multiple historical trophies."
+            style = "Focuses on heavy possession dominance, high pressing, and controlling the territory."
         elif elo > 1750:
-            hist = f"Strong continental competitive record. Recognized tournament dark horse with giant-killing pedigree."
-            style = "Highly coordinated mid-block structures with lethal horizontal transition mechanisms."
+            hist = f"A recognized tournament dark horse backed by a strong continental record and the ability to upset top tier teams."
+            style = "Relies on a highly coordinated midfield block paired with lethal counter attacking transitions."
         else:
-            hist = f"Modern developing international program looking to establish long-term validation tracks."
-            style = "Low defensive blocks, high physical concentration, focusing on set plays and clinical counters."
+            hist = f"A developing international program looking to establish a long term competitive record."
+            style = "Utilizes deep defensive blocks and high physical intensity while relying on set pieces to score."
             
         return {'hist': hist, 'style': style, 'underrated': underrated, 'star': star}
 
@@ -374,7 +374,7 @@ if st.session_state.page == 'Home':
     st.markdown(f"""
     <div class='explainer-box'>
         <div class='explainer-title'>Welcome to the Truth Engine</div>
-        <div class='explainer-text'>This dashboard does not rely on subjective opinions. It utilizes the <b>4rs Score</b>—a proprietary mathematical formula combining European club data, 25-match form tracking, historical Elo, and Machine Learning pedigree models—to calculate the exact probabilistic strength of every nation competing in the 2026 World Cup.</div>
+        <div class='explainer-text'>This platform completely removes human bias. It uses the 4rs Score to calculate the exact probabilistic strength of every nation competing in the 2026 World Cup. The 4rs Score is a custom mathematical formula that combines European club data, recent 25 game form tracking, historical Elo ratings, and machine learning models.</div>
     </div>
     """, unsafe_allow_html=True)
     
@@ -409,8 +409,8 @@ if st.session_state.page == 'Rankings':
     st.header("Global Power Rankings")
     st.markdown(f"""
     <div class='explainer-box'>
-        <div class='explainer-title'>Understanding the 4rs Score Leaderboard</div>
-        <div class='explainer-text'>The 4rs Score is not just a rating; it is a nation's absolute gravitational weight. The algorithm weights the pure talent of the Starting XI at 40%, anchored by a 60% reliance on their Opponent-Adjusted Elo rating to prevent individual superstars from skewing national team realities.</div>
+        <div class='explainer-title'>Understanding the Leaderboard</div>
+        <div class='explainer-text'>The 4rs Score represents the true competitive weight of a nation. The algorithm measures the raw talent of the starting lineup at 40 percent and anchors the remaining 60 percent to historical Elo ratings. This balance ensures that individual superstars do not falsely inflate the rating of an entire national team.</div>
     </div>
     """, unsafe_allow_html=True)
     st.dataframe(power_df, use_container_width=True, height=750)
@@ -420,8 +420,8 @@ elif st.session_state.page == 'Deep Dive':
     st.header("Team Analysis")
     st.markdown(f"""
     <div class='explainer-box'>
-        <div class='explainer-title'>Deep Statistical Profiling</div>
-        <div class='explainer-text'>Select a nation to view their projected path. This dashboard maps their 4rs data into contextual phase efficiency indicators, revealing true tactical strengths and vulnerabilities prior to any real-world matches.</div>
+        <div class='explainer-title'>Tactical Breakdown</div>
+        <div class='explainer-text'>Select a nation to see their optimal tactical setup. The engine reviews the entire database and computationally builds the strongest and most balanced 4-3-3 formation available. It then maps that starting lineup directly onto visual pitch coordinates.</div>
     </div>
     """, unsafe_allow_html=True)
     
@@ -433,10 +433,8 @@ elif st.session_state.page == 'Deep Dive':
     
     st.markdown(f"<div class='profile-grid'><div class='profile-panel'><div class='profile-label'>History & Achievements</div><div class='profile-value'>{meta1['hist']}</div></div><div class='profile-panel'><div class='profile-label'>Tactical Playstyle</div><div class='profile-value'>{meta1['style']}</div></div><div class='profile-panel'><div class='profile-label'>Star Player Profile</div><div class='profile-value'>{meta1['star']}</div></div><div class='profile-panel'><div class='profile-label'>Underrated Player Choice</div><div class='profile-value'>{meta1['underrated']}</div></div><div class='profile-panel' style='grid-column: 1 / -1;'><div class='profile-label'>Manager</div><div class='profile-value'>{t1_data['Manager']}</div></div></div>", unsafe_allow_html=True)
     
-    # Generate Stats for single team
     stats_1 = generate_comprehensive_stats(team1)
     
-    # Graphs
     col_g1, col_g2 = st.columns([1, 1])
     
     categories = ['Attack', 'Midfield', 'Defense', 'Goalkeeping']
@@ -495,7 +493,7 @@ elif st.session_state.page == 'Comparison':
     st.markdown("""
     <div class='explainer-box'>
         <div class='explainer-title'>Advanced Statistical Matrix</div>
-        <div class='explainer-text'>This system scales team attributes into contextual tournament indicators. Attacking, midfield, and defensive scores are calculated as localized moving averages from league performance data, while performance metrics like possession and shot volume are derived from opponent-weighted Elo models.</div>
+        <div class='explainer-text'>This tool scales base team attributes into highly specific tournament indicators. Attacking, midfield, and defensive scores are generated from localized league performance data. Meanwhile, performance metrics like total possession and expected shot volume are derived directly from opponent weighted Elo models.</div>
     </div>
     """, unsafe_allow_html=True)
 
@@ -541,7 +539,6 @@ elif st.session_state.page == 'Comparison':
 
     # --- GEOMETRIC NUMERICAL PANELS ---
     st.subheader("Granular Data Analysis Grid")
-    
     def render_stat_row(label, val_a, val_b):
         st.markdown(f"<div class='comp-matrix'><div class='comp-val-left'>{val_a}</div><div class='comp-label'>{label}</div><div class='comp-val-right'>{val_b}</div></div>", unsafe_allow_html=True)
 
@@ -603,7 +600,7 @@ elif st.session_state.page == 'MatchFlow':
     st.markdown(f"""
     <div class='explainer-box'>
         <div class='explainer-title'>The Momentum Engine</div>
-        <div class='explainer-text'>Unlike the Monte Carlo bracket which generates a final score, this tool simulates a specific 90-minute matchup in real-time. It maps the 4rs probabilities into 1-minute Poisson intervals, injecting momentum variance to generate a realistic Expected Goals (xG) step-chart showing exactly when goals are scored during the match.</div>
+        <div class='explainer-text'>Unlike the main tournament bracket which predicts a final score, this tool simulates a specific 90 minute matchup in real time. It distributes the team probabilities across 1 minute intervals and injects natural momentum variance. This generates a realistic Expected Goals step chart showing exactly when teams are most likely to score.</div>
     </div>
     """, unsafe_allow_html=True)
     
@@ -613,17 +610,17 @@ elif st.session_state.page == 'MatchFlow':
     
     if st.button("Simulate 90 Minutes", use_container_width=True):
         with st.spinner("Calculating minute-by-minute momentum shifts..."):
-            
-            # Use upgraded variance logic here too!
             m_a, m_b = squad_metrics[team_home], squad_metrics[team_away]
-            power_diff = (m_a['Starting_XI'] - m_b['Starting_XI']) / 20.0     
-            form_diff = (m_a['Form_25'] - m_b['Form_25']) / 80.0    
-            elo_diff = (m_a['Elo'] - m_b['Elo']) / 450.0   
-            pedigree_diff = (m_a['Pedigree_Boost'] - m_b['Pedigree_Boost']) * 2.0
             
-            base_xg = 1.35
-            lambda_a = max(0.20, min(4.5, base_xg + power_diff + form_diff + elo_diff + pedigree_diff))
-            lambda_b = max(0.20, min(4.5, base_xg - power_diff - form_diff - elo_diff - pedigree_diff))
+            # Use original stable math
+            power_diff = (m_a['Starting_XI'] - m_b['Starting_XI']) / 30.0     
+            form_diff = (m_a['Form_25'] - m_b['Form_25']) / 100.0    
+            elo_diff = (m_a['Elo'] - m_b['Elo']) / 700.0   
+            pedigree_diff = (m_a['Pedigree_Boost'] - m_b['Pedigree_Boost']) * 1.5
+            
+            base_xg = 1.15
+            lambda_a = max(0.20, min(3.8, base_xg + power_diff + form_diff + elo_diff + pedigree_diff))
+            lambda_b = max(0.20, min(3.8, base_xg - power_diff - form_diff - elo_diff - pedigree_diff))
             
             prob_a_min = lambda_a / 90.0
             prob_b_min = lambda_b / 90.0
@@ -676,7 +673,7 @@ elif st.session_state.page == 'Simulator':
     st.markdown(f"""
     <div class='explainer-box'>
         <div class='explainer-title'>The Monte Carlo Truth Engine</div>
-        <div class='explainer-text'>This is the core of the dashboard. Instead of trying to guess a single outcome, the Engine utilizes a Monte Carlo methodology—playing out every single fixture of the World Cup <b>10,000 times</b>. It factors in starting roster strength, bench depth fatigue during knockouts, historical pedigree clutch factor, and 3rd-place routing mathematics to output the most statistically probable Official Bracket.</div>
+        <div class='explainer-text'>This is the core of the entire dashboard. Instead of trying to guess a single outcome, the engine uses a Monte Carlo method to play out every single fixture of the World Cup 10,000 times. It factors in starting roster strength, bench depth fatigue during knockouts, historical clutch factor, and third place routing mathematics to build the most statistically probable bracket.</div>
     </div>
     """, unsafe_allow_html=True)
     
@@ -686,15 +683,15 @@ elif st.session_state.page == 'Simulator':
             def simulate_match(team_a, team_b, is_knockout=False, sims=10000):
                 metric_a, metric_b = squad_metrics[team_a], squad_metrics[team_b]
                 
-                # Amplified disparity weights for more realistic football variance
-                power_diff = (metric_a['Starting_XI'] - metric_b['Starting_XI']) / 20.0     
-                form_diff = (metric_a['Form_25'] - metric_b['Form_25']) / 80.0    
-                elo_diff = (metric_a['Elo'] - metric_b['Elo']) / 450.0   
-                pedigree_diff = (metric_a['Pedigree_Boost'] - metric_b['Pedigree_Boost']) * 2.0
+                # Reverted to pure, stable mathematics to ensure true statistical modes
+                power_diff = (metric_a['Starting_XI'] - metric_b['Starting_XI']) / 30.0     
+                form_diff = (metric_a['Form_25'] - metric_b['Form_25']) / 100.0    
+                elo_diff = (metric_a['Elo'] - metric_b['Elo']) / 700.0   
+                pedigree_diff = (metric_a['Pedigree_Boost'] - metric_b['Pedigree_Boost']) * 1.5
                 
-                base_xg = 1.35 
-                lambda_a = max(0.20, min(4.5, base_xg + power_diff + form_diff + elo_diff + pedigree_diff))
-                lambda_b = max(0.20, min(4.5, base_xg - power_diff - form_diff - elo_diff - pedigree_diff))
+                base_xg = 1.15 
+                lambda_a = max(0.20, min(3.8, base_xg + power_diff + form_diff + elo_diff + pedigree_diff))
+                lambda_b = max(0.20, min(3.8, base_xg - power_diff - form_diff - elo_diff - pedigree_diff))
                 
                 if is_knockout: 
                     lambda_a -= (metric_a['Depth_Dropoff'] / 50.0)
@@ -707,19 +704,8 @@ elif st.session_state.page == 'Simulator':
                 wins_a, wins_b, draws = int(np.sum(goals_a > goals_b)), int(np.sum(goals_b > goals_a)), int(np.sum(goals_a == goals_b))
                 scorelines = list(zip(goals_a, goals_b))
                 
-                # --- THE FIX: INTELLIGENT SCORE SELECTION ---
-                top_5_results = [score[0] for score in Counter(scorelines).most_common(5)]
-                
-                if wins_a > wins_b and wins_a > draws:
-                    valid_results = [s for s in top_5_results if s[0] > s[1]]
-                elif wins_b > wins_a and wins_b > draws:
-                    valid_results = [s for s in top_5_results if s[1] > s[0]]
-                else:
-                    valid_results = [s for s in top_5_results if s[0] == s[1]]
-                    
-                if not valid_results: valid_results = top_5_results # Failsafe
-                
-                mode_ga, mode_gb = max(valid_results, key=lambda x: sum(x))
+                # --- FIXED: Pulls the absolute true statistical mode ---
+                mode_ga, mode_gb = Counter(scorelines).most_common(1)[0][0]
                 
                 advancer = None
                 if is_knockout:
