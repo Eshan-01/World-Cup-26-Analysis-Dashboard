@@ -613,14 +613,17 @@ elif st.session_state.page == 'MatchFlow':
     
     if st.button("Simulate 90 Minutes", use_container_width=True):
         with st.spinner("Calculating minute-by-minute momentum shifts..."):
-            m_a, m_b = squad_metrics[team_home], squad_metrics[team_away]
-            power_diff = (m_a['Starting_XI'] - m_b['Starting_XI']) / 30.0     
-            form_diff = (m_a['Form_25'] - m_b['Form_25']) / 100.0    
-            elo_diff = (m_a['Elo'] - m_b['Elo']) / 700.0   
-            pedigree_diff = (m_a['Pedigree_Boost'] - m_b['Pedigree_Boost']) * 1.5
             
-            lambda_a = max(0.20, min(3.8, 1.15 + power_diff + form_diff + elo_diff + pedigree_diff))
-            lambda_b = max(0.20, min(3.8, 1.15 - power_diff - form_diff - elo_diff - pedigree_diff))
+            # Use upgraded variance logic here too!
+            m_a, m_b = squad_metrics[team_home], squad_metrics[team_away]
+            power_diff = (m_a['Starting_XI'] - m_b['Starting_XI']) / 20.0     
+            form_diff = (m_a['Form_25'] - m_b['Form_25']) / 80.0    
+            elo_diff = (m_a['Elo'] - m_b['Elo']) / 450.0   
+            pedigree_diff = (m_a['Pedigree_Boost'] - m_b['Pedigree_Boost']) * 2.0
+            
+            base_xg = 1.35
+            lambda_a = max(0.20, min(4.5, base_xg + power_diff + form_diff + elo_diff + pedigree_diff))
+            lambda_b = max(0.20, min(4.5, base_xg - power_diff - form_diff - elo_diff - pedigree_diff))
             
             prob_a_min = lambda_a / 90.0
             prob_b_min = lambda_b / 90.0
@@ -682,14 +685,16 @@ elif st.session_state.page == 'Simulator':
 
             def simulate_match(team_a, team_b, is_knockout=False, sims=10000):
                 metric_a, metric_b = squad_metrics[team_a], squad_metrics[team_b]
-                power_diff = (metric_a['Starting_XI'] - metric_b['Starting_XI']) / 30.0     
-                form_diff = (metric_a['Form_25'] - metric_b['Form_25']) / 100.0    
-                elo_diff = (metric_a['Elo'] - metric_b['Elo']) / 700.0   
-                pedigree_diff = (metric_a['Pedigree_Boost'] - metric_b['Pedigree_Boost']) * 1.5
                 
-                base_xg = 1.15 
-                lambda_a = max(0.20, min(3.8, base_xg + power_diff + form_diff + elo_diff + pedigree_diff))
-                lambda_b = max(0.20, min(3.8, base_xg - power_diff - form_diff - elo_diff - pedigree_diff))
+                # Amplified disparity weights for more realistic football variance
+                power_diff = (metric_a['Starting_XI'] - metric_b['Starting_XI']) / 20.0     
+                form_diff = (metric_a['Form_25'] - metric_b['Form_25']) / 80.0    
+                elo_diff = (metric_a['Elo'] - metric_b['Elo']) / 450.0   
+                pedigree_diff = (metric_a['Pedigree_Boost'] - metric_b['Pedigree_Boost']) * 2.0
+                
+                base_xg = 1.35 
+                lambda_a = max(0.20, min(4.5, base_xg + power_diff + form_diff + elo_diff + pedigree_diff))
+                lambda_b = max(0.20, min(4.5, base_xg - power_diff - form_diff - elo_diff - pedigree_diff))
                 
                 if is_knockout: 
                     lambda_a -= (metric_a['Depth_Dropoff'] / 50.0)
@@ -701,7 +706,20 @@ elif st.session_state.page == 'Simulator':
                 
                 wins_a, wins_b, draws = int(np.sum(goals_a > goals_b)), int(np.sum(goals_b > goals_a)), int(np.sum(goals_a == goals_b))
                 scorelines = list(zip(goals_a, goals_b))
-                mode_ga, mode_gb = Counter(scorelines).most_common(1)[0][0]
+                
+                # --- THE FIX: INTELLIGENT SCORE SELECTION ---
+                top_5_results = [score[0] for score in Counter(scorelines).most_common(5)]
+                
+                if wins_a > wins_b and wins_a > draws:
+                    valid_results = [s for s in top_5_results if s[0] > s[1]]
+                elif wins_b > wins_a and wins_b > draws:
+                    valid_results = [s for s in top_5_results if s[1] > s[0]]
+                else:
+                    valid_results = [s for s in top_5_results if s[0] == s[1]]
+                    
+                if not valid_results: valid_results = top_5_results # Failsafe
+                
+                mode_ga, mode_gb = max(valid_results, key=lambda x: sum(x))
                 
                 advancer = None
                 if is_knockout:
