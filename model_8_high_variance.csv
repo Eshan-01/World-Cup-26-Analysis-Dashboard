@@ -1,0 +1,1248 @@
+Group,Team,Manager,Position,Player,Club,SofaScore_Rating,ML_Power_Rating
+Group A,Mexico,Javier Aguirre,Goalkeepers,Carlos Acevedo,Santos Laguna,6.7,68.5
+Group A,Mexico,Javier Aguirre,Goalkeepers,Guillermo Ochoa,AEL Limassol,6.85,71.9
+Group A,Mexico,Javier Aguirre,Goalkeepers,Raúl Rangel,Chivas,6.7241379310345,69.0
+Group A,Mexico,Javier Aguirre,Defenders,Jesús Gallardo,Toluca,6.72,69.0
+Group A,Mexico,Javier Aguirre,Defenders,Israel Reyes,América,6.88,72.6
+Group A,Mexico,Javier Aguirre,Defenders,César Montes,Lokomotiv Moscow,7.05,76.4
+Group A,Mexico,Javier Aguirre,Defenders,Jorge Sánchez,PAOK,6.7,68.5
+Group A,Mexico,Javier Aguirre,Defenders,Johan Vásquez,Genoa,6.730303030303,69.2
+Group A,Mexico,Javier Aguirre,Defenders,Mateo Chávez,AZ Alkmaar,6.7882352941176,70.5
+Group A,Mexico,Javier Aguirre,Midfielders,Gilberto Mora,Tijuana,6.7,68.5
+Group A,Mexico,Javier Aguirre,Midfielders,Edson Álvarez,Fenerbahçe,6.84,71.7
+Group A,Mexico,Javier Aguirre,Midfielders,Orbelín Pineda,AEK Athens,7.07,76.8
+Group A,Mexico,Javier Aguirre,Midfielders,Luis Romo,Chivas,7.2925925925926,85.89
+Group A,Mexico,Javier Aguirre,Midfielders,Brian Gutiérrez,Chivas,6.9,73.0
+Group A,Mexico,Javier Aguirre,Midfielders,Obed Vargas,Atlético Madrid,6.78,70.3
+Group A,Mexico,Javier Aguirre,Midfielders,César Huerta,Anderlecht,6.66,67.6
+Group A,Mexico,Javier Aguirre,Midfielders,Luis Chávez,Dinamo Moscow,7.2925925925926,85.89
+Group A,Mexico,Javier Aguirre,Midfielders,Erik Lira,Cruz Azul,6.41,62.0
+Group A,Mexico,Javier Aguirre,Midfielders,Álvaro Fidalgo,Real Betis,6.8666666666667,72.3
+Group A,Mexico,Javier Aguirre,Midfielders,Roberto Alvarado,Chivas,6.86,72.1
+Group A,Mexico,Javier Aguirre,Forwards,Armando González,Chivas,6.66,67.6
+Group A,Mexico,Javier Aguirre,Forwards,Raúl Jiménez,Fulham,6.7241379310345,69.0
+Group A,Mexico,Javier Aguirre,Forwards,Julián Quiñones,Al Qadsiah,6.66,67.6
+Group A,Mexico,Javier Aguirre,Forwards,Santiago Gimenez,AC Milan,6.4666666666667,63.3
+Group A,Mexico,Javier Aguirre,Forwards,Guillermo Martínez,Pumas,6.8,70.8
+Group A,Mexico,Javier Aguirre,Forwards,Alexis Vega,Toluca,6.721875,69.0
+Group A,South Africa,Hugo Broos,Goalkeepers,Ronwen Williams,Mamelodi Sundowns,6.37,61.1
+Group A,South Africa,Hugo Broos,Goalkeepers,Ricardo Goss,Mamelodi Sundowns,6.41,62.0
+Group A,South Africa,Hugo Broos,Goalkeepers,Sipho Chaine,Orlando Pirates,6.64,67.2
+Group A,South Africa,Hugo Broos,Defenders,Khuliso Mudau,Mamelodi Sundowns,6.55,65.1
+Group A,South Africa,Hugo Broos,Defenders,Nkosinathi Sibisi,Orlando Pirates,6.81,71.0
+Group A,South Africa,Hugo Broos,Defenders,Ime Okon,Hannover 96,6.57,65.6
+Group A,South Africa,Hugo Broos,Defenders,Khulumani Ndamane,Mamelodi Sundowns,6.47,63.3
+Group A,South Africa,Hugo Broos,Defenders,Aubrey Modiba,Mamelodi Sundowns,7.04,76.2
+Group A,South Africa,Hugo Broos,Defenders,Samukelo Kabini,Molde,6.74,69.4
+Group A,South Africa,Hugo Broos,Defenders,Thabang Matuludi,Polokwane City,6.9,73.0
+Group A,South Africa,Hugo Broos,Defenders,Olwethu Makhanya,Philadelphia Union,6.76,69.9
+Group A,South Africa,Hugo Broos,Defenders,Kamgogelo Sebelebele,Orlando Pirates,6.47,63.3
+Group A,South Africa,Hugo Broos,Defenders,Bradley Cross,Kaizer Chiefs,6.64,67.2
+Group A,South Africa,Hugo Broos,Defenders,Mbekezeli Mbokazi,Chicago Fire,6.77,70.1
+Group A,South Africa,Hugo Broos,Midfielders,Teboho Mokoena,Mamelodi Sundowns,6.52,64.5
+Group A,South Africa,Hugo Broos,Midfielders,Thalente Mbatha,Orlando Pirates,6.83,71.4
+Group A,South Africa,Hugo Broos,Midfielders,Yaya Sithole,Tondela,6.5739130434783,65.7
+Group A,South Africa,Hugo Broos,Midfielders,Jayden Adams,Mamelodi Sundowns,6.8842105263158,72.6
+Group A,South Africa,Hugo Broos,Forwards,Oswin Appollis,Orlando Pirates,6.63,66.9
+Group A,South Africa,Hugo Broos,Forwards,Iqraam Rayners,Mamelodi Sundowns,6.69,68.3
+Group A,South Africa,Hugo Broos,Forwards,Tshepang Moremi,Orlando Pirates,6.63,66.9
+Group A,South Africa,Hugo Broos,Forwards,Relebohile Mofokeng,Orlando Pirates,7.12,78.0
+Group A,South Africa,Hugo Broos,Forwards,Evidence Makgopa,Orlando Pirates,6.75,69.6
+Group A,South Africa,Hugo Broos,Forwards,Themba Zwane,Mamelodi Sundowns,6.54,64.9
+Group A,South Africa,Hugo Broos,Forwards,Lyle Foster,Burnley,6.4791666666667,63.5
+Group A,South Africa,Hugo Broos,Forwards,Thapelo Maseko,AEL Limassol,6.91,73.2
+Group A,South Korea,Hong Myung-Bo,Goalkeepers,Jo Hyun-Woo,Ulsan HD,6.51,64.2
+Group A,South Korea,Hong Myung-Bo,Goalkeepers,Kim Seung-Gyu,FC Tokyo,6.99,75.0
+Group A,South Korea,Hong Myung-Bo,Goalkeepers,Song Bum-Keun,Jeonbuk Hyundai,6.36,60.9
+Group A,South Korea,Hong Myung-Bo,Defenders,Kim Min-Jae,Bayern Munich,7.22,84.21000000000001
+Group A,South Korea,Hong Myung-Bo,Defenders,Jo Yu-Min,Sharjah,6.48,63.6
+Group A,South Korea,Hong Myung-Bo,Defenders,Lee Han-Beom,Midtjylland,6.79,70.5
+Group A,South Korea,Hong Myung-Bo,Defenders,Kim Tae-Hyun,Kashima Antlers,6.9,73.0
+Group A,South Korea,Hong Myung-Bo,Defenders,Park Jin-Seop,Zhejiang FC,6.98,74.8
+Group A,South Korea,Hong Myung-Bo,Defenders,Lee Ki-Hyeok,Gangwon FC,6.93,73.7
+Group A,South Korea,Hong Myung-Bo,Defenders,Lee Tae-Seok,Austria Vienna,6.69,68.3
+Group A,South Korea,Hong Myung-Bo,Defenders,Seol Young-Woo,Red Star Belgrade,6.45,62.9
+Group A,South Korea,Hong Myung-Bo,Defenders,Jens Castrop,Borussia Mönchengladbach,6.696,68.4
+Group A,South Korea,Hong Myung-Bo,Defenders,Kim Moon-Hwan,Daejeon Hana,6.61,66.5
+Group A,South Korea,Hong Myung-Bo,Midfielders,Yang Hyun-Jun,Celtic,6.66,67.6
+Group A,South Korea,Hong Myung-Bo,Midfielders,Paik Seung-Ho,Birmingham City,7.16,82.84500000000001
+Group A,South Korea,Hong Myung-Bo,Midfielders,Hwang In-Beom,Feyenoord,6.9058823529412,73.1
+Group A,South Korea,Hong Myung-Bo,Midfielders,Kim Jin-Kyu,Jeonbuk Hyundai,6.82,71.2
+Group A,South Korea,Hong Myung-Bo,Midfielders,Bae Jun-Ho,Stoke City,6.6,66.3
+Group A,South Korea,Hong Myung-Bo,Midfielders,Um Ji-Sung,Swansea City,7.01,75.5
+Group A,South Korea,Hong Myung-Bo,Midfielders,Hwang Hee-Chan,Wolverhampton,6.5954545454545,66.1
+Group A,South Korea,Hong Myung-Bo,Midfielders,Lee Dong-Gyeong,Ulsan HD,6.67,67.8
+Group A,South Korea,Hong Myung-Bo,Midfielders,Lee Jae-Sung,Mainz,6.7384615384615,69.4
+Group A,South Korea,Hong Myung-Bo,Midfielders,Lee Kang-In,Paris Saint-Germain,6.9782608695652,74.8
+Group A,South Korea,Hong Myung-Bo,Forwards,Oh Hyun-Kyu,Besiktas,6.61,66.5
+Group A,South Korea,Hong Myung-Bo,Forwards,Son Heung-Min,LAFC,7.07,76.8
+Group A,South Korea,Hong Myung-Bo,Forwards,Cho Kyu-Sung,Midtjylland,6.96,74.4
+Group A,Czechia,Miroslav Koubek,Goalkeepers,Lukas Hornicek,Braga,6.94,73.9
+Group A,Czechia,Miroslav Koubek,Goalkeepers,Jan Koutny,Sigma Olomouc,7.3,86.10000000000001
+Group A,Czechia,Miroslav Koubek,Goalkeepers,Jindrich Stanek,Slavia Prague,6.58,65.8
+Group A,Czechia,Miroslav Koubek,Defenders,Vladimír Coufal,TSG Hoffenheim,7.1,77.5
+Group A,Czechia,Miroslav Koubek,Defenders,ra,Slavia Prague,7.4,88.515
+Group A,Czechia,Miroslav Koubek,Defenders,Tomáš Holeš,Slavia Prague,6.69,68.3
+Group A,Czechia,Miroslav Koubek,Defenders,,TSG Hoffenheim,6.82,71.2
+Group A,Czechia,Miroslav Koubek,Defenders,pán Chaloupek,Slavia Prague,6.95,74.1
+Group A,Czechia,Miroslav Koubek,Defenders,David Jurásek,Slavia Prague,6.65,67.4
+Group A,Czechia,Miroslav Koubek,Defenders,í,Wolverhampton Wanderers,6.71,68.7
+Group A,Czechia,Miroslav Koubek,Defenders,Jaroslav Zelený,Sparta Prague,6.53,64.7
+Group A,Czechia,Miroslav Koubek,Defenders,David Zima,Slavia Prague,6.625,66.8
+Group A,Czechia,Miroslav Koubek,Midfielders,Lukás Cerv,Viktoria Plzen,6.51,64.2
+Group A,Czechia,Miroslav Koubek,Midfielders,Vladimir Darida,Hradec Kralove,6.91,73.2
+Group A,Czechia,Miroslav Koubek,Midfielders,Lukás Provod,Slavia Prague,7.02,75.7
+Group A,Czechia,Miroslav Koubek,Midfielders,Michal Sadílek,Slavia Prague,6.74,69.4
+Group A,Czechia,Miroslav Koubek,Midfielders,rek,Sparta Prague,6.5714285714286,65.6
+Group A,Czechia,Miroslav Koubek,Midfielders,Alexandr Sojka,Viktoria Plzen,6.95,74.1
+Group A,Czechia,Miroslav Koubek,Midfielders,ek,West Ham,6.8428571428571,71.7
+Group A,Czechia,Miroslav Koubek,Forwards,Adam Hložek,TSG Hoffenheim,6.3,59.5
+Group A,Czechia,Miroslav Koubek,Forwards,Tomáš Chorý,Slavia Prague,6.82,71.2
+Group A,Czechia,Miroslav Koubek,Forwards,Mojmír Chytil,Slavia Prague,6.62,66.7
+Group A,Czechia,Miroslav Koubek,Forwards,Jan Kuchta,Sparta Prague,7.3,86.10000000000001
+Group A,Czechia,Miroslav Koubek,Forwards,Patrik Schick,Bayer Leverkusen,6.8541666666667,72.0
+Group A,Czechia,Miroslav Koubek,Forwards,Matej Vydra,Viktoria Plzen,6.82,71.2
+Group A,Czechia,Miroslav Koubek,Forwards,Denis Višinský,Viktoria Plzen,7.06,76.6
+Group B,Canada,Jesse Marsch,Goalkeepers,Dayne St. Clair,Inter Miami,6.74,69.4
+Group B,Canada,Jesse Marsch,Goalkeepers,Maxime Crépeau,Orlando City,7.26,85.155
+Group B,Canada,Jesse Marsch,Goalkeepers,Owen Goodman,Barnsley,6.23,57.9
+Group B,Canada,Jesse Marsch,Defenders,Moïse Bombito,Nice,6.6,66.3
+Group B,Canada,Jesse Marsch,Defenders,Derek Cornelius,Rangers,6.91,73.2
+Group B,Canada,Jesse Marsch,Defenders,Alphonso Davies,Bayern Munich,6.9,73.0
+Group B,Canada,Jesse Marsch,Defenders,Luc De Fougerolles,FCV Dender,6.971875,74.6
+Group B,Canada,Jesse Marsch,Defenders,Alistair Johnston,Celtic,6.77,70.1
+Group B,Canada,Jesse Marsch,Defenders,Alfie Jones,Middlesbrough,6.66,67.6
+Group B,Canada,Jesse Marsch,Defenders,Richie Laryea,Toronto FC,6.89,72.8
+Group B,Canada,Jesse Marsch,Defenders,Niko Sigur,Hajduk Split,6.77,70.1
+Group B,Canada,Jesse Marsch,Defenders,Joel Waterman,Chicago Fire,6.35,60.6
+Group B,Canada,Jesse Marsch,Midfielders,Ali Ahmed,Norwich City,6.7227272727273,69.0
+Group B,Canada,Jesse Marsch,Midfielders,Tajon Buchanan,Villarreal,6.8103448275862,71.0
+Group B,Canada,Jesse Marsch,Midfielders,Mathieu Choinière,LAFC,6.91,73.2
+Group B,Canada,Jesse Marsch,Midfielders,Stephen Eustáquio,LAFC,7.02,75.7
+Group B,Canada,Jesse Marsch,Midfielders,Marcelo Flores,Tigres UANL,6.6,66.3
+Group B,Canada,Jesse Marsch,Midfielders,Ismaël Koné,Sassuolo,7.0,75.3
+Group B,Canada,Jesse Marsch,Midfielders,Liam Millar,Hull City,7.25,84.94500000000001
+Group B,Canada,Jesse Marsch,Midfielders,Jonathan Osorio,Toronto FC,6.7428571428571,69.5
+Group B,Canada,Jesse Marsch,Midfielders,Nathan Saliba,Anderlecht,6.65,67.4
+Group B,Canada,Jesse Marsch,Midfielders,Jacob Shaffelburg,LAFC,6.79,70.5
+Group B,Canada,Jesse Marsch,Forwards,Jonathan David,Juventus,6.4413793103448,62.7
+Group B,Canada,Jesse Marsch,Forwards,Promise David,Royale-Union Saint Gilloise,6.65,67.4
+Group B,Canada,Jesse Marsch,Forwards,Cyle Larin,Southampton,6.93,73.7
+Group B,Canada,Jesse Marsch,Forwards,Tani Oluwaseyi,Villarreal,6.5318181818182,64.7
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Goalkeepers,Nikola Vasilj,St Pauli,7.08,77.1
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Goalkeepers,Martin Zlomislic,Rijeka,6.8052631578947,70.9
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Goalkeepers,Osman Hadzikic,Slaven Belupo,6.82,71.2
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Defenders,Sead Kolasinac,Atalanta,6.71875,68.9
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Defenders,Amar Dedic,Benfica,6.81,71.0
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Defenders,Nihad Mujakic,Gaziantep,6.604,66.3
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Defenders,Nikola Katic,Schalke 04,6.64,67.2
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Defenders,Tarik Muharemovic,Sassuolo,6.8642857142857,72.2
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Defenders,Stjepan Radeljic,Rijeka,6.85,71.9
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Defenders,Dennis Hadzikadunic,Sampdoria,7.095652173913,77.4
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Defenders,Nidal Celik,Lens,6.5428571428571,65.0
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Midfielders,Amir Hadziahmetovic,Hull City,6.7,68.5
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Midfielders,Ivan Sunjic,Pafos,6.77,70.1
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Midfielders,Ivan Basic,Astana,6.94,73.9
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Midfielders,Dzenis Burnic,Karlsruher SC,6.61,66.5
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Midfielders,Ermin Mahmic,Slovan Liberec,6.68,68.1
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Midfielders,Benjamin Tahirovic,Brondby,6.67,67.8
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Midfielders,Amar Memic,Viktoria Plzen,6.46,63.1
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Midfielders,Armin Gigovic,Young Boys,6.81,71.0
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Midfielders,Kerim Alajbegovic,RB Salzburg,6.8,70.8
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Midfielders,Esmir Bajraktarevic,PSV Eindhoven,6.8173913043478,71.1
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Forwards,Ermedin Demirovic,VfB Stuttgart,6.855,72.0
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Forwards,Jovo Lukic,Universitatea Cluj,6.75,69.6
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Forwards,Samed Bazdar,Jagiellonia Bialystok,6.7,68.5
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Forwards,Haris Tabakovic,Borussia Moenchengladbach,6.6758620689655,68.0
+Group B,Bosnia-Herzegovina,Sergej Barbarez,Forwards,Edin Dzeko,Schalke 04,6.47,63.3
+Group B,Qatar,Julen Lopetegui,Goalkeepers,Salah Zakaria,Al Duhail,6.67,67.8
+Group B,Qatar,Julen Lopetegui,Goalkeepers,Meshaal Barsham,Al Sadd,6.68,68.1
+Group B,Qatar,Julen Lopetegui,Goalkeepers,Mahmoud Abunada,Al Rayyan,6.59,66.0
+Group B,Qatar,Julen Lopetegui,Defenders,Boualem Khoukhi,Al Sadd,6.72,69.0
+Group B,Qatar,Julen Lopetegui,Defenders,Pedro Miguel,Al Sadd,6.7583333333333,69.8
+Group B,Qatar,Julen Lopetegui,Defenders,Sultan Al Brake,Al Duhail,6.83,71.4
+Group B,Qatar,Julen Lopetegui,Defenders,Al-Hashmi Al-Hussain,Al Arabi,7.13,78.2
+Group B,Qatar,Julen Lopetegui,Defenders,Ayoub Al-Alawi,Al Gharafa,6.78,70.3
+Group B,Qatar,Julen Lopetegui,Defenders,Issa Laye,Al Arabi,6.8,70.8
+Group B,Qatar,Julen Lopetegui,Defenders,Lucas Mendes,Al Wakrah,6.8833333333333,72.6
+Group B,Qatar,Julen Lopetegui,Defenders,Homam Al-Amin,Cultural Leonesa,6.74,69.4
+Group B,Qatar,Julen Lopetegui,Midfielders,Ahmed Fathi,Al Arabi,6.37,61.1
+Group B,Qatar,Julen Lopetegui,Midfielders,Jassim Gaber,Al Rayyan,6.74,69.4
+Group B,Qatar,Julen Lopetegui,Midfielders,Assim Madibo,Al Wakrah,6.76,69.9
+Group B,Qatar,Julen Lopetegui,Midfielders,Abdulaziz Hatem,Al Rayyan,7.24,84.73500000000001
+Group B,Qatar,Julen Lopetegui,Midfielders,Karim Boudiaf,Al Duhail,6.71,68.7
+Group B,Qatar,Julen Lopetegui,Midfielders,Mohammed Mannai,Al Shamal,6.81,71.0
+Group B,Qatar,Julen Lopetegui,Forwards,Almoez Ali,Al Duhail,6.7227272727273,69.0
+Group B,Qatar,Julen Lopetegui,Forwards,Akram Afif,Al Sadd,6.74,69.4
+Group B,Qatar,Julen Lopetegui,Forwards,Tahsin Mohammed,Al Duhail,6.52,64.5
+Group B,Qatar,Julen Lopetegui,Forwards,Edmílson Junior,Al Duhail,6.98,74.8
+Group B,Qatar,Julen Lopetegui,Forwards,Ahmed Al-Ganehi,Al Gharafa,6.9,73.0
+Group B,Qatar,Julen Lopetegui,Forwards,Ahmed Alaa,Al Rayyan,6.91,73.2
+Group B,Qatar,Julen Lopetegui,Forwards,Hassan Al-Haydos,Al Sadd,6.57,65.6
+Group B,Qatar,Julen Lopetegui,Forwards,Mohammed Muntari,Al Gharafa,7.03,75.9
+Group B,Qatar,Julen Lopetegui,Forwards,Yusuf Abdurisag,Al Wakrah,7.1277777777778,78.1
+Group B,Switzerland,Murat Yakin,Goalkeepers,Gregor Kobel,Borussia Dortmund,7.1133333333333,77.8
+Group B,Switzerland,Murat Yakin,Goalkeepers,Yvon Mvogo,Lorient,7.0111111111111,75.5
+Group B,Switzerland,Murat Yakin,Goalkeepers,Marvin Keller,Young Boys,6.47,63.3
+Group B,Switzerland,Murat Yakin,Defenders,Manuel Akanji,Inter Milan,7.0935483870968,77.4
+Group B,Switzerland,Murat Yakin,Defenders,Nico Elvedi,Borussia Mönchengladbach,6.9733333333333,74.6
+Group B,Switzerland,Murat Yakin,Defenders,Ricardo Rodriguez,Real Betis,6.6235294117647,66.8
+Group B,Switzerland,Murat Yakin,Defenders,Silvan Widmer,Mainz,6.7791666666667,70.3
+Group B,Switzerland,Murat Yakin,Defenders,Miro Muheim,Hamburger SV,6.9571428571429,74.3
+Group B,Switzerland,Murat Yakin,Defenders,Aurèle Amenda,Eintracht Frankfurt,6.7166666666667,68.9
+Group B,Switzerland,Murat Yakin,Defenders,Eray Cömert,Valencia,6.8214285714286,71.2
+Group B,Switzerland,Murat Yakin,Defenders,Luca Jaquez,Stuttgart,6.9444444444444,74.0
+Group B,Switzerland,Murat Yakin,Midfielders,Granit Xhaka,Sunderland,7.2344827586207,84.525
+Group B,Switzerland,Murat Yakin,Midfielders,Johan Manzambi,Freiburg,7.2166666666667,84.105
+Group B,Switzerland,Murat Yakin,Midfielders,Remo Freuler,Bologna,6.875,72.4
+Group B,Switzerland,Murat Yakin,Midfielders,Denis Zakaria,Monaco,6.875,72.4
+Group B,Switzerland,Murat Yakin,Midfielders,Ardon Jashari,AC Milan,6.81,71.0
+Group B,Switzerland,Murat Yakin,Midfielders,Djibril Sow,Sevilla,6.7888888888889,70.5
+Group B,Switzerland,Murat Yakin,Midfielders,Christian Fassnacht,Young Boys,6.87,72.3
+Group B,Switzerland,Murat Yakin,Midfielders,Michel Aebischer,Pisa,6.9258064516129,73.6
+Group B,Switzerland,Murat Yakin,Midfielders,Fabian Rieder,Augsburg,6.8444444444444,71.7
+Group B,Switzerland,Murat Yakin,Midfielders,Rubén Vargas,Sevilla,6.7705882352941,70.1
+Group B,Switzerland,Murat Yakin,Forwards,Breel Embolo,Rennes,6.6444444444444,67.2
+Group B,Switzerland,Murat Yakin,Forwards,Noah Okafor,Leeds,6.95,74.1
+Group B,Switzerland,Murat Yakin,Forwards,Dan Ndoye,Nottingham Forest,6.6409090909091,67.2
+Group B,Switzerland,Murat Yakin,Forwards,Zeki Amdouni,Burnley,7.19,83.47500000000001
+Group B,Switzerland,Murat Yakin,Forwards,Cedric Itten,Fortuna Dusseldorf,6.55,65.1
+Group C,Brazil,Carlo Ancelotti,Goalkeepers,Alisson,Liverpool,6.808,70.9
+Group C,Brazil,Carlo Ancelotti,Goalkeepers,Éderson,Fenerbahce,6.95,74.1
+Group C,Brazil,Carlo Ancelotti,Goalkeepers,Weverton,Grêmio,6.9,73.0
+Group C,Brazil,Carlo Ancelotti,Defenders,Alex Sandro,Flamengo,6.64,67.2
+Group C,Brazil,Carlo Ancelotti,Defenders,Bremer,Juventus,7.0954545454545,77.4
+Group C,Brazil,Carlo Ancelotti,Defenders,Danilo,Flamengo,6.5857142857143,65.9
+Group C,Brazil,Carlo Ancelotti,Defenders,Douglas Santos,Zenit St. Petersburg,6.77,70.1
+Group C,Brazil,Carlo Ancelotti,Defenders,Gabriel Magalhães,Arsenal,7.3333333333333,86.83500000000001
+Group C,Brazil,Carlo Ancelotti,Defenders,Léo Pereira,Flamengo,6.5678571428571,65.5
+Group C,Brazil,Carlo Ancelotti,Defenders,Marquinhos,Paris Saint-Germain,7.2181818181818,84.21000000000001
+Group C,Brazil,Carlo Ancelotti,Defenders,Roger Ibañez,Al Ahli,6.65,67.4
+Group C,Brazil,Carlo Ancelotti,Defenders,Wesley,AS Roma,6.4333333333333,62.5
+Group C,Brazil,Carlo Ancelotti,Midfielders,Bruno Guimarães,Newcastle United,7.4666666666667,90.09
+Group C,Brazil,Carlo Ancelotti,Midfielders,Casemiro,Manchester United,7.1548387096774,82.635
+Group C,Brazil,Carlo Ancelotti,Midfielders,Danilo Santos,Botafogo,6.5857142857143,65.9
+Group C,Brazil,Carlo Ancelotti,Midfielders,Fabinho,Al Ittihad,6.44,62.7
+Group C,Brazil,Carlo Ancelotti,Midfielders,Lucas Paquetá,Flamengo,6.36,60.9
+Group C,Brazil,Carlo Ancelotti,Forwards,Endrick,Lyon,7.2,83.79
+Group C,Brazil,Carlo Ancelotti,Forwards,Gabriel Martinelli,Arsenal,6.5925925925926,66.1
+Group C,Brazil,Carlo Ancelotti,Forwards,Igor Thiago,Brentford,7.0060606060606,75.4
+Group C,Brazil,Carlo Ancelotti,Forwards,Luiz Henrique,Zenit St. Petersburg,6.868,72.3
+Group C,Brazil,Carlo Ancelotti,Forwards,Matheus Cunha,Manchester United,7.0533333333333,76.4
+Group C,Brazil,Carlo Ancelotti,Forwards,Neymar,Santos,6.76,69.9
+Group C,Brazil,Carlo Ancelotti,Forwards,Raphinha,Barcelona,7.45,89.67000000000002
+Group C,Brazil,Carlo Ancelotti,Forwards,Rayan,Bournemouth,6.98,74.8
+Group C,Brazil,Carlo Ancelotti,Forwards,Vinícius Júnior,Real Madrid,7.4066666666667,88.62
+Group C,Morocco,Mohamed Ouahbi,Goalkeepers,Yassine Bounou,Al Hilal,6.54,64.9
+Group C,Morocco,Mohamed Ouahbi,Goalkeepers,Munir El Kajoui,RS Berkane,6.84,71.7
+Group C,Morocco,Mohamed Ouahbi,Goalkeepers,Reda Tagnaouti,AS Far,6.57,65.6
+Group C,Morocco,Mohamed Ouahbi,Defenders,Noussair Mazraoui,Manchester United,6.8470588235294,71.8
+Group C,Morocco,Mohamed Ouahbi,Defenders,Anass Salah-Eddine,PSV Eindhoven,6.6733333333333,67.9
+Group C,Morocco,Mohamed Ouahbi,Defenders,Youssef Belammari,Al Ahly,6.8666666666667,72.3
+Group C,Morocco,Mohamed Ouahbi,Defenders,Achraf Hakimi,Paris Saint-Germain,6.725,69.1
+Group C,Morocco,Mohamed Ouahbi,Defenders,Zakaria El Ouahdi,Racing Genk,7.06,76.6
+Group C,Morocco,Mohamed Ouahbi,Defenders,Chadi Riad,Crystal Palace,6.65,67.4
+Group C,Morocco,Mohamed Ouahbi,Defenders,Nayef Aguerd,Marseille,7.125,78.1
+Group C,Morocco,Mohamed Ouahbi,Defenders,Redouane Halhal,KV Mechelen,6.59,66.0
+Group C,Morocco,Mohamed Ouahbi,Defenders,Issa Diop,Fulham,6.5333333333333,64.7
+Group C,Morocco,Mohamed Ouahbi,Midfielders,Samir El Mourabet,Strasbourg,6.9793103448276,74.8
+Group C,Morocco,Mohamed Ouahbi,Midfielders,Ayyoub Bouaddi,Lille,6.6961538461538,68.4
+Group C,Morocco,Mohamed Ouahbi,Midfielders,Neil El Aynaoui,AS Roma,6.62,66.7
+Group C,Morocco,Mohamed Ouahbi,Midfielders,Sofyan Amrabat,Real Betis,7.0818181818182,77.1
+Group C,Morocco,Mohamed Ouahbi,Midfielders,Azzedine Ounahi,Girona,7.2176470588235,84.105
+Group C,Morocco,Mohamed Ouahbi,Midfielders,Bilal El Khannouss,Stuttgart,7.0272727272727,75.9
+Group C,Morocco,Mohamed Ouahbi,Midfielders,Ismael Saibari,PSV Eindhoven,7.1884615384615,83.47500000000001
+Group C,Morocco,Mohamed Ouahbi,Forwards,Abde Ezzalzouli,Real Betis,7.1818181818182,83.265
+Group C,Morocco,Mohamed Ouahbi,Forwards,Chemsdine Talbi,Sunderland,6.632,67.0
+Group C,Morocco,Mohamed Ouahbi,Forwards,Soufiane Rahimi,Al Ain,6.69,68.3
+Group C,Morocco,Mohamed Ouahbi,Forwards,Ayoub El Kaabi,Olympiacos,6.6730769230769,67.9
+Group C,Morocco,Mohamed Ouahbi,Forwards,Brahim Díaz,Real Madrid,6.7086956521739,68.7
+Group C,Morocco,Mohamed Ouahbi,Forwards,Gessime Yassine,Strasbourg,7.0571428571429,76.5
+Group C,Morocco,Mohamed Ouahbi,Forwards,Ayoube Amaimouni,Eintracht Frankfurt,6.6857142857143,68.2
+Group C,Haiti,Sebastien Migne,Goalkeepers,Johny Placide,Bastia,6.91,73.2
+Group C,Haiti,Sebastien Migne,Goalkeepers,Alexandre Pierre,Sochaux,6.5,64.0
+Group C,Haiti,Sebastien Migne,Goalkeepers,Josue Duverger,Cosmos Koblenz,6.8,70.8
+Group C,Haiti,Sebastien Migne,Defenders,Carlens Arcus,Angers,6.6791666666667,68.0
+Group C,Haiti,Sebastien Migne,Defenders,Wilguens Paugain,Zulte Waregem,7.01,75.5
+Group C,Haiti,Sebastien Migne,Defenders,Duke Lacroix,Colorado Springs Switchbacks,6.43,62.4
+Group C,Haiti,Sebastien Migne,Defenders,Martin Expérience,Nancy,6.8052631578947,70.9
+Group C,Haiti,Sebastien Migne,Defenders,Jean-Kévin Duverne,Gent,6.79,70.5
+Group C,Haiti,Sebastien Migne,Defenders,Ricardo Adé,LDU Quito,6.6235294117647,66.8
+Group C,Haiti,Sebastien Migne,Defenders,Hannes Delcroix,Lugano,6.8,70.8
+Group C,Haiti,Sebastien Migne,Defenders,Keeto Thermoncy,Young Boys,6.91,73.2
+Group C,Haiti,Sebastien Migne,Midfielders,Carl Fred Sainté,El Paso Locomotive,7.0,75.3
+Group C,Haiti,Sebastien Migne,Midfielders,Leverton Pierre,Vizela,6.5,64.0
+Group C,Haiti,Sebastien Migne,Midfielders,Danley Jean Jacques,Philadelphia Union,7.1757575757576,83.16000000000001
+Group C,Haiti,Sebastien Migne,Midfielders,Jean-Ricner Bellegarde,Wolverhampton Wanderers,6.7708333333333,70.1
+Group C,Haiti,Sebastien Migne,Midfielders,Woodensky Pierre,Violette,6.49,63.8
+Group C,Haiti,Sebastien Migne,Midfielders,Dominique Simon,FC Tatran Prešov,6.62,66.7
+Group C,Haiti,Sebastien Migne,Forwards,Don Deedson Louicius,FC Dallas,7.05,76.4
+Group C,Haiti,Sebastien Migne,Forwards,Josué Casimir,Auxerre,6.562962962963,65.4
+Group C,Haiti,Sebastien Migne,Forwards,Derrick Etienne,Toronto FC,7.01,75.5
+Group C,Haiti,Sebastien Migne,Forwards,Ruben Providence,Almere,7.2,83.79
+Group C,Haiti,Sebastien Migne,Forwards,Duckens Nazon,Esteghlal,6.8,70.8
+Group C,Haiti,Sebastien Migne,Forwards,Frantzdy Pierrot,Çaykur Rizespor,6.4571428571429,63.0
+Group C,Haiti,Sebastien Migne,Forwards,Wilson Isidor,Sunderland,6.616,66.6
+Group C,Haiti,Sebastien Migne,Forwards,Yassin Fortuné,Vizela,6.82,71.2
+Group C,Haiti,Sebastien Migne,Forwards,Lenny Joseph,Ferencváros,6.61,66.5
+Group C,Scotland,Steve Clarke,Goalkeepers,Craig Gordon,Hearts,6.8,70.8
+Group C,Scotland,Steve Clarke,Goalkeepers,Angus Gunn,Nottingham Forest,6.5,64.0
+Group C,Scotland,Steve Clarke,Goalkeepers,Liam Kelly,Rangers,6.81,71.0
+Group C,Scotland,Steve Clarke,Defenders,Grant Hanley,Hibernian,6.61,66.5
+Group C,Scotland,Steve Clarke,Defenders,Jack Hendry,Al Etiffaq,7.12,78.0
+Group C,Scotland,Steve Clarke,Defenders,Aaron Hickey,Brentford,6.5588235294118,65.3
+Group C,Scotland,Steve Clarke,Defenders,Dom Hyam,Wrexham,6.84,71.7
+Group C,Scotland,Steve Clarke,Defenders,Scott McKenna,Dinamo Zagreb,6.51,64.2
+Group C,Scotland,Steve Clarke,Defenders,Nathan Patterson,Everton,6.8833333333333,72.6
+Group C,Scotland,Steve Clarke,Defenders,Anthony Ralston,Celtic,6.88,72.6
+Group C,Scotland,Steve Clarke,Defenders,Andy Robertson,Liverpool,6.665,67.7
+Group C,Scotland,Steve Clarke,Defenders,John Souttar,Rangers,6.56,65.4
+Group C,Scotland,Steve Clarke,Defenders,Kieran Tierney,Celtic,6.91,73.2
+Group C,Scotland,Steve Clarke,Midfielders,Ryan Christie,Bournemouth,6.7565217391304,69.8
+Group C,Scotland,Steve Clarke,Midfielders,Finlay Curtis,Kilmarnock,6.98,74.8
+Group C,Scotland,Steve Clarke,Midfielders,Lewis Ferguson,Bologna,6.7190476190476,68.9
+Group C,Scotland,Steve Clarke,Midfielders,Ben Gannon-Doak,Bournemouth,6.4833333333333,63.6
+Group C,Scotland,Steve Clarke,Midfielders,Billy Gilmour,Napoli,7.0916666666667,77.3
+Group C,Scotland,Steve Clarke,Midfielders,John McGinn,Aston Villa,6.8961538461538,72.9
+Group C,Scotland,Steve Clarke,Midfielders,Kenny McLean,Norwich,6.59,66.0
+Group C,Scotland,Steve Clarke,Midfielders,Scott McTominay,Napoli,7.0,75.3
+Group C,Scotland,Steve Clarke,Forwards,Ché Adams,Torino,6.72,69.0
+Group C,Scotland,Steve Clarke,Forwards,Lyndon Dykes,Charlton Athletic,6.94,73.9
+Group C,Scotland,Steve Clarke,Forwards,George Hirst,Ipswich,6.83,71.4
+Group C,Scotland,Steve Clarke,Forwards,Lawrence Shankland,Hearts,6.91,73.2
+Group C,Scotland,Steve Clarke,Forwards,Ross Stewart,Southampton,7.13,78.2
+Group D,United States,Mauricio Pochettino,Goalkeepers,Chris Brady,Chicago Fire,6.7,68.5
+Group D,United States,Mauricio Pochettino,Goalkeepers,Matt Freese,New York City FC,6.8,70.8
+Group D,United States,Mauricio Pochettino,Goalkeepers,Matt Turner,New England Revolution,6.57,65.6
+Group D,United States,Mauricio Pochettino,Defenders,Max Arfsten,Columbus Crew,6.59,66.0
+Group D,United States,Mauricio Pochettino,Defenders,Sergiño Dest,PSV Eindhoven,6.9916666666667,75.1
+Group D,United States,Mauricio Pochettino,Defenders,Alex Freeman,Villarreal,6.62,66.7
+Group D,United States,Mauricio Pochettino,Defenders,Mark McKenzie,Toulouse,6.7846153846154,70.4
+Group D,United States,Mauricio Pochettino,Defenders,Tim Ream,Charlotte FC,6.7727272727273,70.1
+Group D,United States,Mauricio Pochettino,Defenders,Chris Richards,Crystal Palace,6.9888888888889,75.0
+Group D,United States,Mauricio Pochettino,Defenders,Antonee Robinson,Fulham,6.8117647058824,71.0
+Group D,United States,Mauricio Pochettino,Defenders,Miles Robinson,FC Cincinnati,6.93,73.7
+Group D,United States,Mauricio Pochettino,Defenders,Joe Scally,Borussia Mönchengladbach,6.6107142857143,66.5
+Group D,United States,Mauricio Pochettino,Defenders,Auston Trusty,Celtic,6.82,71.2
+Group D,United States,Mauricio Pochettino,Midfielders,Tyler Adams,"AFC Bournemouth, Sebastian Berhalter (Vancouver Whitecaps",6.8263157894737,71.3
+Group D,United States,Mauricio Pochettino,Midfielders,Weston McKennie,Juventus,6.8620689655172,72.1
+Group D,United States,Mauricio Pochettino,Midfielders,Cristian Roldan,Seattle Sounders,6.81,71.0
+Group D,United States,Mauricio Pochettino,Midfielders,Brenden Aaronson,Leeds United,6.728125,69.1
+Group D,United States,Mauricio Pochettino,Midfielders,Malik Tillman,Bayer Leverkusen,6.9666666666667,74.5
+Group D,United States,Mauricio Pochettino,Midfielders,Tim Weah,Marseille,6.7727272727273,70.1
+Group D,United States,Mauricio Pochettino,Midfielders,Alejandro Zendejas,Club América,6.92,73.5
+Group D,United States,Mauricio Pochettino,Forwards,Christian Pulisic,AC Milan,7.05,76.4
+Group D,United States,Mauricio Pochettino,Forwards,Gio Reyna,Borussia Mönchengladbach,6.68,68.1
+Group D,United States,Mauricio Pochettino,Forwards,Folarin Balogun,AS Monaco,6.8,70.8
+Group D,United States,Mauricio Pochettino,Forwards,Ricardo Pepi,PSV Eindhoven,6.8681818181818,72.3
+Group D,United States,Mauricio Pochettino,Forwards,Haji Wright,Coventry City,6.95,74.1
+Group D,Australia,Tony Popovic,Goalkeepers,Mathew Ryan,Levante,7.2862068965517,85.78500000000001
+Group D,Australia,Tony Popovic,Goalkeepers,Paul Izzo,Randers FC,7.3,86.10000000000001
+Group D,Australia,Tony Popovic,Goalkeepers,Patrick Beach,Melbourne City,6.8545454545455,72.0
+Group D,Australia,Tony Popovic,Defenders,Jordan Bos,Feyenoord Rotterdam,7.1708333333333,83.05499999999999
+Group D,Australia,Tony Popovic,Defenders,Aziz Behich,Melbourne City,7.24,84.73500000000001
+Group D,Australia,Tony Popovic,Defenders,Harry Souttar,Leicester City,6.9,73.0
+Group D,Australia,Tony Popovic,Defenders,Alessandro Circati,Parma,7.0307692307692,75.9
+Group D,Australia,Tony Popovic,Defenders,Lucas Herrington,Colorado Rapids,6.812,71.0
+Group D,Australia,Tony Popovic,Defenders,Cameron Burgess,Swansea City,7.49,90.615
+Group D,Australia,Tony Popovic,Defenders,Kai Trewin,New York City FC,7.08,77.1
+Group D,Australia,Tony Popovic,Defenders,Milos Degenek,Apoel Nicosia,6.58,65.8
+Group D,Australia,Tony Popovic,Defenders,Jason Geria,Albirex Niigata,6.54,64.9
+Group D,Australia,Tony Popovic,Defenders,Jacob Italiano,Grazer AK,6.85,71.9
+Group D,Australia,Tony Popovic,Midfielders,Jackson Irvine,St. Pauli,6.71,68.7
+Group D,Australia,Tony Popovic,Midfielders,Aiden O'Neill,New York City FC,6.91,73.2
+Group D,Australia,Tony Popovic,Midfielders,Paul Okon Jr,Sydney FC,7.3,86.10000000000001
+Group D,Australia,Tony Popovic,Midfielders,Cameron Devlin,Heart of Midlothian,6.89,72.8
+Group D,Australia,Tony Popovic,Forwards,Connor Metcalfe,St. Pauli,6.5631578947368,65.4
+Group D,Australia,Tony Popovic,Forwards,Mathew Leckie,Melbourne City,7.04,76.2
+Group D,Australia,Tony Popovic,Forwards,Nishan Velupillay,Melbourne Victory,6.74,69.4
+Group D,Australia,Tony Popovic,Forwards,Cristian Volpato,Sassuolo,6.7736842105263,70.2
+Group D,Australia,Tony Popovic,Forwards,Nestory Irankunda,Watford,6.58,65.8
+Group D,Australia,Tony Popovic,Forwards,Awer Mabil,Castellón,6.45,62.9
+Group D,Australia,Tony Popovic,Forwards,Ajdin Hrustic,Heracles Almelo,6.8115384615385,71.0
+Group D,Australia,Tony Popovic,Forwards,Mohamed Toure,Norwich City,6.86,72.1
+Group D,Australia,Tony Popovic,Forwards,Tete Yengi,Machida Zelvia,6.92,73.5
+Group D,Paraguay,Gustavo Alfaro,Goalkeepers,Roberto Fernández,Cerro Porteño,6.5967741935484,66.2
+Group D,Paraguay,Gustavo Alfaro,Goalkeepers,Orlando Gill,San Lorenzo,6.79,70.5
+Group D,Paraguay,Gustavo Alfaro,Goalkeepers,Gastón Olveira,Olimpia,6.5,64.0
+Group D,Paraguay,Gustavo Alfaro,Defenders,Gustavo Gómez,Palmeiras,6.48,63.6
+Group D,Paraguay,Gustavo Alfaro,Defenders,Júnior Alonso,Atletico Mineiro,6.78,70.3
+Group D,Paraguay,Gustavo Alfaro,Defenders,Fabián Balbuena,Gremio,6.83,71.4
+Group D,Paraguay,Gustavo Alfaro,Defenders,Omar Alderete,Sunderland,6.8724137931034,72.4
+Group D,Paraguay,Gustavo Alfaro,Defenders,Juan Caceres,Dynamo Moscow,6.9142857142857,73.3
+Group D,Paraguay,Gustavo Alfaro,Defenders,Jose Canale,Lanus,6.795,70.6
+Group D,Paraguay,Gustavo Alfaro,Defenders,Alexandro Maidana,Talleres,6.57,65.6
+Group D,Paraguay,Gustavo Alfaro,Defenders,Gustavo Velázquez,Cerro Porteño,6.9321428571429,73.7
+Group D,Paraguay,Gustavo Alfaro,Midfielders,Miguel Almirón,Atlanta United,6.98,74.8
+Group D,Paraguay,Gustavo Alfaro,Midfielders,Kaku,Al Ain,6.76,69.9
+Group D,Paraguay,Gustavo Alfaro,Midfielders,Andrés Cubas,Vancouver Whitecaps,6.85,71.9
+Group D,Paraguay,Gustavo Alfaro,Midfielders,Ramón Sosa,Palmeiras,6.52,64.5
+Group D,Paraguay,Gustavo Alfaro,Midfielders,Diego Gómez,Brighton & Hove Albion,6.7766666666667,70.2
+Group D,Paraguay,Gustavo Alfaro,Midfielders,Damián Bobadilla,São Paulo,6.82,71.2
+Group D,Paraguay,Gustavo Alfaro,Midfielders,Braian Ojeda,Orlando City,7.06,76.6
+Group D,Paraguay,Gustavo Alfaro,Midfielders,Matías Galarza,Atlanta United,7.17,83.05499999999999
+Group D,Paraguay,Gustavo Alfaro,Midfielders,Maurício,Palmeiras,6.96,74.4
+Group D,Paraguay,Gustavo Alfaro,Forwards,Antonio Sanabria,Cremonese,6.5136363636364,64.3
+Group D,Paraguay,Gustavo Alfaro,Forwards,Julio Enciso,Strasbourg,7.0409090909091,76.2
+Group D,Paraguay,Gustavo Alfaro,Forwards,Gabriel Ávalos,Independiente,6.4,61.8
+Group D,Paraguay,Gustavo Alfaro,Forwards,Alex Arce,Independiente Rivadavia,6.47,63.3
+Group D,Paraguay,Gustavo Alfaro,Forwards,Isidro Pitta,Red Bull Bragantino,6.56,65.4
+Group D,Paraguay,Gustavo Alfaro,Forwards,Gustavo Caballero,Portsmouth,6.9321428571429,73.7
+Group D,Türkiye,Vincenzo Montella,Goalkeepers,Ugurcan Cakir,Galatasaray,6.85,71.9
+Group D,Türkiye,Vincenzo Montella,Goalkeepers,Mert Gunok,Fenerbahce,6.5222222222222,64.5
+Group D,Türkiye,Vincenzo Montella,Goalkeepers,Altay Bayindir,Man United,6.6,66.3
+Group D,Türkiye,Vincenzo Montella,Defenders,Merih Demiral,Al-Ahli,6.85,71.9
+Group D,Türkiye,Vincenzo Montella,Defenders,Zeki Celik,AS Roma,6.8206896551724,71.2
+Group D,Türkiye,Vincenzo Montella,Defenders,Caglar Soyuncu,Fenerbahce,6.85,71.9
+Group D,Türkiye,Vincenzo Montella,Defenders,Mert Muldur,Fenerbahce,7.52,91.35000000000001
+Group D,Türkiye,Vincenzo Montella,Defenders,Ferdi Kadioglu,Brighton & Hove Albion,6.796875,70.7
+Group D,Türkiye,Vincenzo Montella,Defenders,Ozan Kabak,TSG Hoffenheim,6.9333333333333,73.7
+Group D,Türkiye,Vincenzo Montella,Defenders,Abdulkerim Bardakci,Galatasaray,7.1592592592593,82.74
+Group D,Türkiye,Vincenzo Montella,Defenders,Eren Elmali,Galatasaray,6.9227272727273,73.5
+Group D,Türkiye,Vincenzo Montella,Defenders,Samet Akaydin,Caykur Rizesport,7.0444444444444,76.2
+Group D,Türkiye,Vincenzo Montella,Midfielders,Hakan Calhanoglou,"Inter Milan, Kaan Ayhan (Galatasaray",7.4954545454545,90.72000000000001
+Group D,Türkiye,Vincenzo Montella,Midfielders,Orkun Kokcu,Besiktas,6.86,72.1
+Group D,Türkiye,Vincenzo Montella,Midfielders,Ismail Yuksek,Fenerbahce,6.9,73.0
+Group D,Türkiye,Vincenzo Montella,Midfielders,Salih Ozcan,Borussia Dortmund,6.7,68.5
+Group D,Türkiye,Vincenzo Montella,Forwards,Kerem Akturkoglu,Fenerbahce,6.988,75.0
+Group D,Türkiye,Vincenzo Montella,Forwards,Irfan Can Kahveci,Kasimpasa,7.03,75.9
+Group D,Türkiye,Vincenzo Montella,Forwards,Baris Apler Yilmaz,Galatasaray,6.98,74.8
+Group D,Türkiye,Vincenzo Montella,Forwards,Arda Guler,Real Madrid,7.1774193548387,83.16000000000001
+Group D,Türkiye,Vincenzo Montella,Forwards,Kenan Yildiz,Juventus,7.45,89.67000000000002
+Group D,Türkiye,Vincenzo Montella,Forwards,Yunus Akgun,Galatasaray,7.1958333333333,83.685
+Group D,Türkiye,Vincenzo Montella,Forwards,Oguz Aydin,Fenerbahce,6.94,73.9
+Group D,Türkiye,Vincenzo Montella,Forwards,Deniz Gul,Porto,6.524,64.5
+Group D,Türkiye,Vincenzo Montella,Forwards,Can Uzun,Eintracht Frankfurt,7.0647058823529,76.7
+Group E,Germany,Julian Nagelsmann,Goalkeepers,Oliver Baumann,Hoffenheim,6.86,72.1
+Group E,Germany,Julian Nagelsmann,Goalkeepers,Manuel Neuer,Bayern Munich,6.9190476190476,73.4
+Group E,Germany,Julian Nagelsmann,Goalkeepers,Alexander Nübel,Stuttgart,7.1466666666667,78.6
+Group E,Germany,Julian Nagelsmann,Defenders,Waldemar Anton,Borussia Dortmund,7.2642857142857,85.26
+Group E,Germany,Julian Nagelsmann,Defenders,Nathaniel Brown,Eintracht Frankfurt,6.848275862069,71.8
+Group E,Germany,Julian Nagelsmann,Defenders,David Raum,RB Leipzig,7.3310344827586,86.83500000000001
+Group E,Germany,Julian Nagelsmann,Defenders,Antonio Rüdiger,Real Madrid,6.9,73.0
+Group E,Germany,Julian Nagelsmann,Defenders,Nico Schlotterbeck,Borussia Dortmund,7.6458333333333,94.29
+Group E,Germany,Julian Nagelsmann,Defenders,Jonathan Tah,Bayern Munich,7.2695652173913,85.365
+Group E,Germany,Julian Nagelsmann,Defenders,Malick Thiaw,Newcastle,7.04,76.2
+Group E,Germany,Julian Nagelsmann,Midfielders,Pascal Gross,Brighton,7.1214285714286,78.0
+Group E,Germany,Julian Nagelsmann,Midfielders,Joshua Kimmich,Bayern Munich,7.7038461538462,95.655
+Group E,Germany,Julian Nagelsmann,Midfielders,Felix Nmecha,Borussia Dortmund,6.9555555555556,74.3
+Group E,Germany,Julian Nagelsmann,Midfielders,Aleksandar Pavlovic,Bayern Munich,7.2409090909091,84.73500000000001
+Group E,Germany,Julian Nagelsmann,Midfielders,Angelo Stiller,Stuttgart,7.2333333333333,84.525
+Group E,Germany,Julian Nagelsmann,Midfielders,Leon Goretzka,Bayern Munich,7.072,76.9
+Group E,Germany,Julian Nagelsmann,Midfielders,Florian Wirtz,Liverpool,6.8827586206897,72.6
+Group E,Germany,Julian Nagelsmann,Midfielders,Jamie Leweling,Stuttgart,7.0535714285714,76.5
+Group E,Germany,Julian Nagelsmann,Forwards,Maximilian Beier,Borussia Dortmund,6.7357142857143,69.3
+Group E,Germany,Julian Nagelsmann,Forwards,Kai Havertz,Arsenal,6.6375,67.1
+Group E,Germany,Julian Nagelsmann,Forwards,Lennart Karl,Bayern Munich,6.8217391304348,71.2
+Group E,Germany,Julian Nagelsmann,Forwards,Jamal Musiala,Bayern Munich,6.7454545454545,69.5
+Group E,Germany,Julian Nagelsmann,Forwards,Leroy Sané,Galatasaray,7.2125,84.0
+Group E,Germany,Julian Nagelsmann,Forwards,Deniz Undav,Stuttgart,7.24,84.73500000000001
+Group E,Germany,Julian Nagelsmann,Forwards,Nick Woltemade,Newcastle,6.6413793103448,67.2
+Group E,Curacao,Dick Advocaat,Goalkeepers,Eloy Room,Miami FC,7.08,77.1
+Group E,Curacao,Dick Advocaat,Goalkeepers,Tyrick Bodak,Telstar,6.69,68.3
+Group E,Curacao,Dick Advocaat,Goalkeepers,Trevor Doornbusch,VVV Venlo,6.9,73.0
+Group E,Curacao,Dick Advocaat,Defenders,Riechedly Bazoer,Konyaspor,6.55,65.1
+Group E,Curacao,Dick Advocaat,Defenders,Joshua Brenet,Kayserispor,6.4555555555556,63.0
+Group E,Curacao,Dick Advocaat,Defenders,Roshon van Eijma,RKC Waalwijk,6.6285714285714,66.9
+Group E,Curacao,Dick Advocaat,Defenders,Sherel Floranus,PEC Zwolle,6.4137931034483,62.1
+Group E,Curacao,Dick Advocaat,Defenders,Deveron Fonville,NEC Nijmegen,6.7909090909091,70.5
+Group E,Curacao,Dick Advocaat,Defenders,Jurien Gaari,Abha,6.6,66.3
+Group E,Curacao,Dick Advocaat,Defenders,Armando Obispo,PSV Eindhoven,6.8875,72.7
+Group E,Curacao,Dick Advocaat,Defenders,Shurandy Sambo,Sparta Rotterdam,6.6375,67.1
+Group E,Curacao,Dick Advocaat,Midfielders,Juninho Bacuna,Volendam,6.8666666666667,72.3
+Group E,Curacao,Dick Advocaat,Midfielders,Leandro Bacuna,Igdir,6.7,68.5
+Group E,Curacao,Dick Advocaat,Midfielders,Livano Comenencia,Zurich,6.65,67.4
+Group E,Curacao,Dick Advocaat,Midfielders,Kevin Felida,Den Bosch,6.7782608695652,70.3
+Group E,Curacao,Dick Advocaat,Midfielders,Ar'jany Martha,Rotherham United,6.97,74.6
+Group E,Curacao,Dick Advocaat,Midfielders,Tyrese Noslin,Telstar,6.7866666666667,70.5
+Group E,Curacao,Dick Advocaat,Midfielders,Godfried Roemeratoe,RKC Waalwijk,7.21,84.0
+Group E,Curacao,Dick Advocaat,Forwards,Jeremy Antonisse,Kifisia,6.38,61.3
+Group E,Curacao,Dick Advocaat,Forwards,Tahith Chong,Sheffield United,7.09,77.3
+Group E,Curacao,Dick Advocaat,Forwards,Kenji Gorre,Maccabi Haifa,6.43,62.4
+Group E,Curacao,Dick Advocaat,Forwards,Sontje Hansen,Middlesbrough,6.66,67.6
+Group E,Curacao,Dick Advocaat,Forwards,Gervane Kastaneer,Terengganu,6.97,74.6
+Group E,Curacao,Dick Advocaat,Forwards,Brandley Kuwas,Volendam,6.7607142857143,69.9
+Group E,Curacao,Dick Advocaat,Forwards,Jurgen Locadia,Miami FC,6.96,74.4
+Group E,Curacao,Dick Advocaat,Forwards,Jearl Margaritha,Beveren,6.53,64.7
+Group E,Ivory Coast,Emerse Faé,Goalkeepers,Yahia Fofana,Rizespor,6.8695652173913,72.3
+Group E,Ivory Coast,Emerse Faé,Goalkeepers,Mohamed Koné,Charleroi,6.61,66.5
+Group E,Ivory Coast,Emerse Faé,Goalkeepers,Alban Lafont,Panathinaikos,6.89,72.8
+Group E,Ivory Coast,Emerse Faé,Defenders,Emmanuel Agbadou,Beşiktaş,7.1111111111111,77.8
+Group E,Ivory Coast,Emerse Faé,Defenders,Clément Akpa,AJ Auxerre,6.7260869565217,69.1
+Group E,Ivory Coast,Emerse Faé,Defenders,Ousmane Diomande,Sporting CP,7.0692307692308,76.8
+Group E,Ivory Coast,Emerse Faé,Defenders,Guela Doué,Strasbourg,6.9047619047619,73.1
+Group E,Ivory Coast,Emerse Faé,Defenders,Ghislain Konan,Gil Vicente,6.7444444444444,69.5
+Group E,Ivory Coast,Emerse Faé,Defenders,Odilon Kossounou,Atalanta,6.65625,67.5
+Group E,Ivory Coast,Emerse Faé,Defenders,Evan Ndicka,AS Roma,6.9407407407407,73.9
+Group E,Ivory Coast,Emerse Faé,Defenders,Wilfried Singo,Galatasaray,6.9533333333333,74.2
+Group E,Ivory Coast,Emerse Faé,Midfielders,Seko Fofana,Porto,7.0777777777778,77.0
+Group E,Ivory Coast,Emerse Faé,Midfielders,Parfait Guiagon,Charleroi,6.6,66.3
+Group E,Ivory Coast,Emerse Faé,Midfielders,Franck Kessié,Al Ahli,6.79,70.5
+Group E,Ivory Coast,Emerse Faé,Midfielders,Christ Inao Oulaï,Trabzonspor,7.1571428571429,82.74
+Group E,Ivory Coast,Emerse Faé,Midfielders,Ibrahim Sangaré,Nottingham Forest,6.9875,75.0
+Group E,Ivory Coast,Emerse Faé,Midfielders,Jean Michaël Seri,NK Maribor,7.1757575757576,83.16000000000001
+Group E,Ivory Coast,Emerse Faé,Forwards,Simon Adingra,AS Monaco,6.82,71.2
+Group E,Ivory Coast,Emerse Faé,Forwards,Ange-Yoan Bonny,Internazionale,6.8259259259259,71.3
+Group E,Ivory Coast,Emerse Faé,Forwards,Amad Diallo,Manchester United,6.9296296296296,73.7
+Group E,Ivory Coast,Emerse Faé,Forwards,Oumar Diakité,Cercle Brugge,6.76,69.9
+Group E,Ivory Coast,Emerse Faé,Forwards,Yan Diomande,RB Leipzig,7.8,97.965
+Group E,Ivory Coast,Emerse Faé,Forwards,Evann Guessand,Aston Villa,6.5473684210526,65.1
+Group E,Ivory Coast,Emerse Faé,Forwards,Nicolas Pépé,Villarreal,7.13,78.2
+Group E,Ivory Coast,Emerse Faé,Forwards,Bazoumana Touré,Hoffenheim,6.8576923076923,72.0
+Group E,Ivory Coast,Emerse Faé,Forwards,Elye Wahi,Nice,6.73,69.2
+Group E,Ecuador,Sebastián Beccacece,Goalkeepers,Hernán Galíndez,Huracan,6.62,66.7
+Group E,Ecuador,Sebastián Beccacece,Goalkeepers,Moisés Ramírez,AE Kifisias,7.18,83.265
+Group E,Ecuador,Sebastián Beccacece,Goalkeepers,Gonzalo Valle,LDU Quito,6.88,72.6
+Group E,Ecuador,Sebastián Beccacece,Defenders,Willian Pacho,Paris Saint-Germain,6.9809523809524,74.8
+Group E,Ecuador,Sebastián Beccacece,Defenders,Piero Hincapié,Arsenal,6.8954545454545,72.9
+Group E,Ecuador,Sebastián Beccacece,Defenders,Joel Ordóñez,Club Brugge,6.34,60.4
+Group E,Ecuador,Sebastián Beccacece,Defenders,Félix Torres,Internacional,6.79,70.5
+Group E,Ecuador,Sebastián Beccacece,Defenders,Pervis Estupiñán,AC Milan,6.7,68.5
+Group E,Ecuador,Sebastián Beccacece,Defenders,Yaimar Medina,Racing Genk,6.62,66.7
+Group E,Ecuador,Sebastián Beccacece,Defenders,Ángelo Preciado,Atlético Mineiro,6.92,73.5
+Group E,Ecuador,Sebastián Beccacece,Defenders,Jackson Porozo,Club Tijuana,6.59,66.0
+Group E,Ecuador,Sebastián Beccacece,Midfielders,Alan Minda,Atlético Mineiro,6.9392857142857,73.9
+Group E,Ecuador,Sebastián Beccacece,Midfielders,Moisés Caicedo,Chelsea,7.1785714285714,83.265
+Group E,Ecuador,Sebastián Beccacece,Midfielders,Jordy Alcivar,Independiente del Valle,6.73,69.2
+Group E,Ecuador,Sebastián Beccacece,Midfielders,Denil Castillo,FC Midtjylland,7.05,76.4
+Group E,Ecuador,Sebastián Beccacece,Midfielders,John Yeboah,Venezia,6.6133333333333,66.5
+Group E,Ecuador,Sebastián Beccacece,Midfielders,Alan Franco,Atlético Mineiro,6.9392857142857,73.9
+Group E,Ecuador,Sebastián Beccacece,Midfielders,Pedro Vite,Pumas UNAM,6.7583333333333,69.8
+Group E,Ecuador,Sebastián Beccacece,Midfielders,Kendry Páez,River Plate,6.92,73.5
+Group E,Ecuador,Sebastián Beccacece,Midfielders,Nilson Angulo,Sunderland,6.48,63.6
+Group E,Ecuador,Sebastián Beccacece,Midfielders,Gonzalo Plata,Flamengo,6.51,64.2
+Group E,Ecuador,Sebastián Beccacece,Forwards,Kevin Rodríguez,Union St.-Gilloise,6.7782608695652,70.3
+Group E,Ecuador,Sebastián Beccacece,Forwards,Anthony Valencia,Antwerp,6.68,68.1
+Group E,Ecuador,Sebastián Beccacece,Forwards,Enner Valencia,Pachuca,6.66,67.6
+Group E,Ecuador,Sebastián Beccacece,Forwards,Jordy Caicedo,Huracán,6.62,66.7
+Group E,Ecuador,Sebastián Beccacece,Forwards,Jeremy Arévalo,VfB Stuttgart,6.52,64.5
+Group F,Netherlands,Ronald Koeman,Goalkeepers,Mark Flekken,Bayer Leverkusen,6.8761904761905,72.5
+Group F,Netherlands,Ronald Koeman,Goalkeepers,Robin Roefs,Sunderland,7.0433333333333,76.2
+Group F,Netherlands,Ronald Koeman,Goalkeepers,Bart Verbruggen,Brighton,7.1060606060606,77.6
+Group F,Netherlands,Ronald Koeman,Defenders,Nathan Aké,Manchester City,6.8090909090909,71.0
+Group F,Netherlands,Ronald Koeman,Defenders,Denzel Dumfries,Inter Milan,6.6352941176471,67.0
+Group F,Netherlands,Ronald Koeman,Defenders,Jorrel Hato,Chelsea,6.5222222222222,64.5
+Group F,Netherlands,Ronald Koeman,Defenders,Jurriën Timber,Arsenal,6.9133333333333,73.3
+Group F,Netherlands,Ronald Koeman,Defenders,Jan Paul van Hecke,Brighton,7.3,86.10000000000001
+Group F,Netherlands,Ronald Koeman,Defenders,Micky van de Ven,Tottenham,6.7133333333333,68.8
+Group F,Netherlands,Ronald Koeman,Defenders,Virgil van Dijk,Liverpool,7.2787878787879,85.575
+Group F,Netherlands,Ronald Koeman,Midfielders,Frenkie de Jong,Barcelona,7.38,87.99
+Group F,Netherlands,Ronald Koeman,Midfielders,Marten de Roon,Atalanta,7.1068965517241,77.7
+Group F,Netherlands,Ronald Koeman,Midfielders,Ryan Gravenberch,Liverpool,7.0903225806452,77.3
+Group F,Netherlands,Ronald Koeman,Midfielders,Teun Koopmeiners,Juventus,6.7444444444444,69.5
+Group F,Netherlands,Ronald Koeman,Midfielders,Tijjani Reijnders,Manchester City,6.85,71.9
+Group F,Netherlands,Ronald Koeman,Midfielders,Guus Til,PSV,6.936,73.8
+Group F,Netherlands,Ronald Koeman,Midfielders,Quinten Timber,Marseille,6.6272727272727,66.9
+Group F,Netherlands,Ronald Koeman,Midfielders,Mats Wieffer,Brighton,6.7695652173913,70.1
+Group F,Netherlands,Ronald Koeman,Forwards,Brian Brobbey,Sunderland,6.5961538461538,66.2
+Group F,Netherlands,Ronald Koeman,Forwards,Memphis Depay,Corinthians,7.1,77.5
+Group F,Netherlands,Ronald Koeman,Forwards,Cody Gakpo,Liverpool,6.9548387096774,74.2
+Group F,Netherlands,Ronald Koeman,Forwards,Justin Kluivert,Bournemouth,6.5777777777778,65.8
+Group F,Netherlands,Ronald Koeman,Forwards,Noa Lang,Galatasaray,6.9222222222222,73.5
+Group F,Netherlands,Ronald Koeman,Forwards,Donyell Malen,Roma,7.1,77.5
+Group F,Netherlands,Ronald Koeman,Forwards,Crysencio Summerville,West Ham,6.976,74.7
+Group F,Netherlands,Ronald Koeman,Forwards,Wout Weghorst,Ajax,6.795652173913,70.7
+Group F,Japan,Hajime Moriyasu,Goalkeepers,Zion Suzuki,Parma,6.98125,74.8
+Group F,Japan,Hajime Moriyasu,Goalkeepers,Keisuke Osako,Sanfrecce Hiroshima,6.83,71.4
+Group F,Japan,Hajime Moriyasu,Goalkeepers,Tomoki Hayakawa,Kashima Antlers,6.5,64.0
+Group F,Japan,Hajime Moriyasu,Defenders,to Nagatomo,FC Tokyo,7.13,78.2
+Group F,Japan,Hajime Moriyasu,Defenders,Shogo Taniguchi,Sint-Truiden,7.17,83.05499999999999
+Group F,Japan,Hajime Moriyasu,Defenders,Ko Itakura,Ajax,7.0466666666667,76.3
+Group F,Japan,Hajime Moriyasu,Defenders,Tsuyoshi Watanabe,Feyenoord,7.0740740740741,76.9
+Group F,Japan,Hajime Moriyasu,Defenders,Takehiro Tomiyasu,Ajax,6.5428571428571,65.0
+Group F,Japan,Hajime Moriyasu,Defenders,Hiroki Ito,Bayern Munich,6.8,70.8
+Group F,Japan,Hajime Moriyasu,Defenders,Ayumu Seko,Le Havre,6.8740740740741,72.4
+Group F,Japan,Hajime Moriyasu,Defenders,Yukinari Sugawara,Werder Bremen,6.6142857142857,66.6
+Group F,Japan,Hajime Moriyasu,Midfielders,Junnosuke Suzuki,Copenhagen,6.96,74.4
+Group F,Japan,Hajime Moriyasu,Midfielders,Wataru Endo,Liverpool,6.7,68.5
+Group F,Japan,Hajime Moriyasu,Midfielders,Junya Ito,Genk,6.45,62.9
+Group F,Japan,Hajime Moriyasu,Midfielders,Daichi Kamada,Crystal Palace,6.8285714285714,71.4
+Group F,Japan,Hajime Moriyasu,Midfielders,Ritsu Doan,Eintracht Frankfurt,6.8642857142857,72.2
+Group F,Japan,Hajime Moriyasu,Midfielders,Ao Tanaka,Leeds United,6.7380952380952,69.4
+Group F,Japan,Hajime Moriyasu,Midfielders,Keito Nakamura,Reims,6.65,67.4
+Group F,Japan,Hajime Moriyasu,Midfielders,Kaishu Sano,Mainz,7.0166666666667,75.6
+Group F,Japan,Hajime Moriyasu,Midfielders,Takefusa Kubo,Real Sociedad,7.1263157894737,78.1
+Group F,Japan,Hajime Moriyasu,Midfielders,Yuito Suzuki,Freiburg,6.7666666666667,70.0
+Group F,Japan,Hajime Moriyasu,Forwards,Koki Ogawa,NEC Nijmegen,6.8454545454545,71.8
+Group F,Japan,Hajime Moriyasu,Forwards,Daizen Maeda,Celtic,7.0,75.3
+Group F,Japan,Hajime Moriyasu,Forwards,Ayase Ueda,Feyenoord,7.2035714285714,83.79
+Group F,Japan,Hajime Moriyasu,Forwards,Kento Shiogai,VfL Wolfsburg,6.5,64.0
+Group F,Japan,Hajime Moriyasu,Forwards,Keisuke Goto,Sint-Truiden,6.61,66.5
+Group F,Sweden,Graham Potter,Goalkeepers,Viktor Johansson,Stoke City,7.04,76.2
+Group F,Sweden,Graham Potter,Goalkeepers,Kristoffer Nordfeldt,AIK,6.9,73.0
+Group F,Sweden,Graham Potter,Goalkeepers,Jacob Widell Zetterstrom,Derby County,6.7464285714286,69.5
+Group F,Sweden,Graham Potter,Defenders,Hjalmar Ekdal,Burnley,6.65625,67.5
+Group F,Sweden,Graham Potter,Defenders,Gabriel Gudmundsson,Leeds United,6.6,66.3
+Group F,Sweden,Graham Potter,Defenders,Isak Hien,Atalanta,6.852,71.9
+Group F,Sweden,Graham Potter,Defenders,Emil Holm,Juventus,6.84,71.7
+Group F,Sweden,Graham Potter,Defenders,Gustaf Lagerbielke,Braga,7.0,75.3
+Group F,Sweden,Graham Potter,Defenders,Victor Lindelöf,Aston Villa,6.6923076923077,68.3
+Group F,Sweden,Graham Potter,Defenders,Erik Smith,St. Pauli,6.9041666666667,73.1
+Group F,Sweden,Graham Potter,Defenders,Carl Starfelt,Celta Vigo,6.8578947368421,72.1
+Group F,Sweden,Graham Potter,Defenders,Elliot Stroud,Mjallby,6.56,65.4
+Group F,Sweden,Graham Potter,Defenders,Daniel Svensson,Borussia Dortmund,6.7766666666667,70.2
+Group F,Sweden,Graham Potter,Midfielders,Taha Ali,Malmo,6.7227272727273,69.0
+Group F,Sweden,Graham Potter,Midfielders,Yasin Ayari,Brighton,6.8192307692308,71.2
+Group F,Sweden,Graham Potter,Midfielders,Lucas Bergvall,Tottenham,6.6157894736842,66.6
+Group F,Sweden,Graham Potter,Midfielders,Jesper Karlström,Udinese,6.7333333333333,69.2
+Group F,Sweden,Graham Potter,Midfielders,Ken Sema,Pafos,6.74,69.4
+Group F,Sweden,Graham Potter,Midfielders,Mattias Svanberg,Wolfsburg,6.6333333333333,67.0
+Group F,Sweden,Graham Potter,Midfielders,Besfort Zeneli,Union St-Gilloise,6.1,55.0
+Group F,Sweden,Graham Potter,Forwards,Alexander Bernhardsson,Holstein Kiel,6.525,64.6
+Group F,Sweden,Graham Potter,Forwards,Anthony Elanga,Newcastle United,6.6035714285714,66.3
+Group F,Sweden,Graham Potter,Forwards,Viktor Gyökeres,Arsenal,6.5645161290323,65.5
+Group F,Sweden,Graham Potter,Forwards,Alexander Isak,Liverpool,6.525,64.6
+Group F,Sweden,Graham Potter,Forwards,Gustaf Nilsson,Club Brugge,6.55,65.1
+Group F,Sweden,Graham Potter,Forwards,Benjamin Nygren,Celtic,6.4666666666667,63.3
+Group F,Tunisia,Sabri Lamouchi,Goalkeepers,Aymen Dahmen,CS Sfaxien,6.7,68.5
+Group F,Tunisia,Sabri Lamouchi,Goalkeepers,Sabri Ben Hessen,Étoile du Sahel,6.8111111111111,71.0
+Group F,Tunisia,Sabri Lamouchi,Goalkeepers,Abdelmouhib Chamakh,Club Africain,6.5,64.0
+Group F,Tunisia,Sabri Lamouchi,Defenders,Montassar Talbi,Lorient,6.8846153846154,72.7
+Group F,Tunisia,Sabri Lamouchi,Defenders,Dylan Bronn,Servette,7.08,77.1
+Group F,Tunisia,Sabri Lamouchi,Defenders,Omar Rekik,Maribor,6.3913043478261,61.6
+Group F,Tunisia,Sabri Lamouchi,Defenders,Yan Valery,Young Boys,6.46,63.1
+Group F,Tunisia,Sabri Lamouchi,Defenders,Ali Abdi,Nice,6.55,65.1
+Group F,Tunisia,Sabri Lamouchi,Defenders,Moutaz Neffati,IFK Norrköping,6.66,67.6
+Group F,Tunisia,Sabri Lamouchi,Defenders,Raed Chikhaoui,US Monastir,6.78,70.3
+Group F,Tunisia,Sabri Lamouchi,Defenders,Adam Arous,Kasımpaşa,6.86875,72.3
+Group F,Tunisia,Sabri Lamouchi,Defenders,Mohamed Amine Ben Hamida,Espérance de Tunis,6.8111111111111,71.0
+Group F,Tunisia,Sabri Lamouchi,Midfielders,Ellyes Skhiri,Eintracht Frankfurt,6.6047619047619,66.4
+Group F,Tunisia,Sabri Lamouchi,Midfielders,Hannibal Mejbri,Burnley,6.7190476190476,68.9
+Group F,Tunisia,Sabri Lamouchi,Midfielders,Anis Ben Slimane,Norwich City,6.8111111111111,71.0
+Group F,Tunisia,Sabri Lamouchi,Midfielders,Hadj Mahmoud,Lugano,7.04,76.2
+Group F,Tunisia,Sabri Lamouchi,Midfielders,Rani Khedira,Union Berlin,6.7586206896552,69.8
+Group F,Tunisia,Sabri Lamouchi,Midfielders,Mortadha Ben Ouanes,Kasımpaşa,6.756,69.8
+Group F,Tunisia,Sabri Lamouchi,Forwards,Elias Achouri,Copenhagen,6.425,62.3
+Group F,Tunisia,Sabri Lamouchi,Forwards,Ismaël Gharbi,Augsburg,6.5,64.0
+Group F,Tunisia,Sabri Lamouchi,Forwards,Elias Saad,Hannover 96,6.425,62.3
+Group F,Tunisia,Sabri Lamouchi,Forwards,Sebastian Tounekti,Celtic,6.46,63.1
+Group F,Tunisia,Sabri Lamouchi,Forwards,Firas Chaouat,Club Africain,6.98,74.8
+Group F,Tunisia,Sabri Lamouchi,Forwards,Khalil Ayari,Paris Saint-Germain,7.3,86.10000000000001
+Group F,Tunisia,Sabri Lamouchi,Forwards,Hazem Mastouri,Dynamo Makhachkala,6.55,65.1
+Group F,Tunisia,Sabri Lamouchi,Forwards,Rayan Elloumi,Vancouver Whitecaps,6.98,74.8
+Group F,Tunisia,Sabri Lamouchi,Forwards,Elias Saad,Hannover 96,6.425,62.3
+Group G,Belgium,Rudi Garcia,Goalkeepers,Thibaut Courtois,Real Madrid,6.9214285714286,73.5
+Group G,Belgium,Rudi Garcia,Goalkeepers,Senne Lammens,Manchester United,6.9518518518519,74.2
+Group G,Belgium,Rudi Garcia,Goalkeepers,Mike Penders,Chelsea,6.95,74.1
+Group G,Belgium,Rudi Garcia,Defenders,Timothy Castagne,Fulham,6.6434782608696,67.2
+Group G,Belgium,Rudi Garcia,Defenders,Zeno Debast,Sporting CP,7.0857142857143,77.2
+Group G,Belgium,Rudi Garcia,Defenders,Maxim De Cuyper,Brighton & Hove Albion,6.75,69.6
+Group G,Belgium,Rudi Garcia,Defenders,Koni De Winter,AC Milan,6.9260869565217,73.6
+Group G,Belgium,Rudi Garcia,Defenders,Brandon Mechele,Club Brugge,6.84,71.7
+Group G,Belgium,Rudi Garcia,Defenders,Thomas Meunier,Lille,6.8363636363636,71.6
+Group G,Belgium,Rudi Garcia,Defenders,Nathan Ngoy,Lille,6.848,71.8
+Group G,Belgium,Rudi Garcia,Defenders,Joaquin Seys,Club Brugge,6.8888888888889,72.8
+Group G,Belgium,Rudi Garcia,Defenders,Arthur Theate,Eintracht Frankfurt,6.8086956521739,70.9
+Group G,Belgium,Rudi Garcia,Midfielders,Kevin De Bruyne,Napoli,6.8642857142857,72.2
+Group G,Belgium,Rudi Garcia,Midfielders,Amadou Onana,Aston Villa,7.05,76.4
+Group G,Belgium,Rudi Garcia,Midfielders,Nicolas Raskin,Rangers,6.5,64.0
+Group G,Belgium,Rudi Garcia,Midfielders,Youri Tielemans,Aston Villa,7.175,83.16000000000001
+Group G,Belgium,Rudi Garcia,Midfielders,Hans Vanaken,Club Brugge,6.745,69.5
+Group G,Belgium,Rudi Garcia,Midfielders,Axel Witsel,Girona,6.828,71.4
+Group G,Belgium,Rudi Garcia,Forwards,Charles De Ketelaere,Atalanta,7.2961538461538,85.995
+Group G,Belgium,Rudi Garcia,Forwards,Jérémy Doku,Manchester City,7.3,86.10000000000001
+Group G,Belgium,Rudi Garcia,Forwards,Matias Fernandez-Pardo,Lille,6.7333333333333,69.2
+Group G,Belgium,Rudi Garcia,Forwards,Romelu Lukaku,Napoli,6.575,65.7
+Group G,Belgium,Rudi Garcia,Forwards,Dodi Lukebakio,Benfica,7.0857142857143,77.2
+Group G,Belgium,Rudi Garcia,Forwards,Diego Moreira,Strasbourg,6.9695652173913,74.6
+Group G,Belgium,Rudi Garcia,Forwards,Alexis Saelemaekers,AC Milan,7.1774193548387,83.16000000000001
+Group G,Belgium,Rudi Garcia,Forwards,Leandro Trossard,Arsenal,6.8642857142857,72.2
+Group G,Egypt,Hossam Hassan,Goalkeepers,Mohamed El Shenawy,Al Ahly,6.9433333333333,74.0
+Group G,Egypt,Hossam Hassan,Goalkeepers,Mostafa Shobeir,Al Ahly,6.79,70.5
+Group G,Egypt,Hossam Hassan,Goalkeepers,El Mahdy Soliman,Zamalek,6.63,66.9
+Group G,Egypt,Hossam Hassan,Goalkeepers,Mohamed Alaa,El Gouna,6.8888888888889,72.8
+Group G,Egypt,Hossam Hassan,Defenders,Mohamed Hany,Al Ahly,6.9333333333333,73.7
+Group G,Egypt,Hossam Hassan,Defenders,Tarek Alaa,Zamalek,6.76,69.9
+Group G,Egypt,Hossam Hassan,Defenders,Hamdy Fathy,Al Wakrah,6.67,67.8
+Group G,Egypt,Hossam Hassan,Defenders,Ramy Rabia,Al Ain,7.2722222222222,85.47000000000001
+Group G,Egypt,Hossam Hassan,Defenders,Yasser Ibrahim,Al Ahly,6.77,70.1
+Group G,Egypt,Hossam Hassan,Defenders,Hossam Abdelmaguid,Zamalek,6.88,72.6
+Group G,Egypt,Hossam Hassan,Defenders,Mohamed Abdelmonem,Nice,6.8888888888889,72.8
+Group G,Egypt,Hossam Hassan,Defenders,Ahmed Fatouh,Zamalek,7.07,76.8
+Group G,Egypt,Hossam Hassan,Defenders,Karim Hafez,Pyramids,6.5,64.0
+Group G,Egypt,Hossam Hassan,Midfielders,Marwan Attia,Al Ahly,7.18,83.265
+Group G,Egypt,Hossam Hassan,Midfielders,Mohanad Lasheen,Pyramids,6.36,60.9
+Group G,Egypt,Hossam Hassan,Midfielders,Nabil Emad,Al Najma,6.72,69.0
+Group G,Egypt,Hossam Hassan,Midfielders,Mahmoud Saber,Zed,6.87,72.3
+Group G,Egypt,Hossam Hassan,Midfielders,Ahmed Zizo,Al Ahly,6.81,71.0
+Group G,Egypt,Hossam Hassan,Midfielders,Emam Ashour,Al Ahly,6.63,66.9
+Group G,Egypt,Hossam Hassan,Midfielders,Mostafa Ziko,Pyramids,6.71,68.7
+Group G,Egypt,Hossam Hassan,Midfielders,Mahmoud Trezeguet,Al Ahly,6.65,67.4
+Group G,Egypt,Hossam Hassan,Midfielders,Ibrahim Adel,Nordsjaelland,6.63,66.9
+Group G,Egypt,Hossam Hassan,Midfielders,Haissem Hassan,Real Oviedo,6.84,71.7
+Group G,Egypt,Hossam Hassan,Forwards,Omar Marmoush,Manchester City,6.66,67.6
+Group G,Egypt,Hossam Hassan,Forwards,Mohamed Salah,Liverpool,6.8916666666667,72.8
+Group G,Egypt,Hossam Hassan,Forwards,Hamza Abdelkarim,Barcelona B,6.92,73.5
+Group G,Iran,Amir Ghalenoei,Goalkeepers,Alireza Beiranvand,Tractor,6.82,71.2
+Group G,Iran,Amir Ghalenoei,Goalkeepers,Hossein Hosseini,Sepahan,6.61,66.5
+Group G,Iran,Amir Ghalenoei,Goalkeepers,Payam Niazmand,Persepolis,6.93,73.7
+Group G,Iran,Amir Ghalenoei,Defenders,Danial Eiri,Malavan,6.81,71.0
+Group G,Iran,Amir Ghalenoei,Defenders,Ehsan Hajsafi,Sepahan,6.91,73.2
+Group G,Iran,Amir Ghalenoei,Defenders,Saleh Hardani,Esteghlal,6.88,72.6
+Group G,Iran,Amir Ghalenoei,Defenders,Hossein Kanaani,Persepolis,6.58,65.8
+Group G,Iran,Amir Ghalenoei,Defenders,Shoka Khalilzadeh,Tractor,6.64,67.2
+Group G,Iran,Amir Ghalenoei,Defenders,Milad Mohammadi,Persepolis,6.9,73.0
+Group G,Iran,Amir Ghalenoei,Defenders,Ali Nemati Omid Noorafkan,Foolad,6.55,65.1
+Group G,Iran,Amir Ghalenoei,Defenders,Ramin Rezaeian,Foolad,6.87,72.3
+Group G,Iran,Amir Ghalenoei,Midfielders,Rouzbeh Cheshmi,Esteghlal,6.75,69.6
+Group G,Iran,Amir Ghalenoei,Midfielders,Saeid Ezatolahi,Shabab Al-Ahli,6.77,70.1
+Group G,Iran,Amir Ghalenoei,Midfielders,Mehdi Ghaedi,Al-Nasr,7.01,75.5
+Group G,Iran,Amir Ghalenoei,Midfielders,Saman Ghoddos,Kalba,6.63,66.9
+Group G,Iran,Amir Ghalenoei,Midfielders,Mohammad Ghorbani,Al-Wahda,6.86,72.1
+Group G,Iran,Amir Ghalenoei,Midfielders,Alireza Jahanbakhsh,Dender,6.71,68.7
+Group G,Iran,Amir Ghalenoei,Midfielders,Mohammad Mohebi,Rostovv,6.71,68.7
+Group G,Iran,Amir Ghalenoei,Midfielders,Amir Mohammad Razzaghinia,Esteghlal,7.15,78.6
+Group G,Iran,Amir Ghalenoei,Midfielders,Mehdi Torabi,Tractor,6.97,74.6
+Group G,Iran,Amir Ghalenoei,Midfielders,Aria Yousefi,Sepahan,6.92,73.5
+Group G,Iran,Amir Ghalenoei,Forwards,Ali Alipour,Persepolis,6.91,73.2
+Group G,Iran,Amir Ghalenoei,Forwards,Dennis Dargahi,Standard Liege,6.7821428571429,70.3
+Group G,Iran,Amir Ghalenoei,Forwards,Amirhossein Hosseinzadeh,Tractor,7.01,75.5
+Group G,Iran,Amir Ghalenoei,Forwards,Amirhossein Mahmoudi,Persepolis,6.75,69.6
+Group G,Iran,Amir Ghalenoei,Forwards,Mehdi Taremi,Olympiacos,6.89,72.8
+Group G,New Zealand,Darren Bazeley,Goalkeepers,Max Crocombe,Millwall,6.69,68.3
+Group G,New Zealand,Darren Bazeley,Goalkeepers,Alex Paulsen,Lechia Gdańsk,6.81,71.0
+Group G,New Zealand,Darren Bazeley,Goalkeepers,Michael Woud,Auckland FC,6.4739130434783,63.4
+Group G,New Zealand,Darren Bazeley,Defenders,Tim Payne,Wellington Phoenix,6.7727272727273,70.1
+Group G,New Zealand,Darren Bazeley,Defenders,Francis De Vries,Auckland FC,6.92,73.5
+Group G,New Zealand,Darren Bazeley,Defenders,Tyler Bindon,Nottingham Forest,6.77,70.1
+Group G,New Zealand,Darren Bazeley,Defenders,Michael Boxall,Minnesota United,7.07,76.8
+Group G,New Zealand,Darren Bazeley,Defenders,Liberato Cacace,Wrexham,6.59,66.0
+Group G,New Zealand,Darren Bazeley,Defenders,Nando Pijnaker,Auckland FC,7.37,87.78
+Group G,New Zealand,Darren Bazeley,Defenders,Finn Surman,Portland Timbers,6.55,65.1
+Group G,New Zealand,Darren Bazeley,Defenders,Callan Elliot,Auckland FC,6.71,68.7
+Group G,New Zealand,Darren Bazeley,Defenders,Tommy Smith,Braintree Town,6.98,74.8
+Group G,New Zealand,Darren Bazeley,Midfielders,Joe Bell,Viking FK,6.6666666666667,67.8
+Group G,New Zealand,Darren Bazeley,Midfielders,Matt Garbett,Peterborough United,7.11,77.7
+Group G,New Zealand,Darren Bazeley,Midfielders,Marko Stamenic,Swansea City,7.07,76.8
+Group G,New Zealand,Darren Bazeley,Midfielders,Sarpreet Singh,Wellington Phoenix,6.88,72.6
+Group G,New Zealand,Darren Bazeley,Midfielders,Alex Rufer,Wellington Phoenix,6.75,69.6
+Group G,New Zealand,Darren Bazeley,Midfielders,Ryan Thomas,PEC Zwolle,7.092,77.3
+Group G,New Zealand,Darren Bazeley,Forwards,Chris Wood,Nottingham Forest,6.52,64.5
+Group G,New Zealand,Darren Bazeley,Forwards,Eli Just,Motherwell,6.7592592592593,69.8
+Group G,New Zealand,Darren Bazeley,Forwards,Kosta Barbarouses,Western Sydney Wanderers,6.57,65.6
+Group G,New Zealand,Darren Bazeley,Forwards,Ben Waine,Port Vale,6.4833333333333,63.6
+Group G,New Zealand,Darren Bazeley,Forwards,Ben Old,Saint-Étienne,6.4833333333333,63.6
+Group G,New Zealand,Darren Bazeley,Forwards,Callum McCowatt,Silkeborg IF,6.77,70.1
+Group G,New Zealand,Darren Bazeley,Forwards,Jesse Randall,Auckland FC,6.81,71.0
+Group G,New Zealand,Darren Bazeley,Forwards,Lachlan Bayliss,Newcastle Jets,6.95,74.1
+Group H,Spain,Luis de la Fuente,Goalkeepers,Unai Simón,Athletic Club,6.9096774193548,73.2
+Group H,Spain,Luis de la Fuente,Goalkeepers,David Raya,Arsenal,6.8878787878788,72.7
+Group H,Spain,Luis de la Fuente,Goalkeepers,Joan García,Barcelona,7.384,88.09500000000001
+Group H,Spain,Luis de la Fuente,Defenders,Marc Cucurella,Chelsea,6.7137931034483,68.8
+Group H,Spain,Luis de la Fuente,Defenders,Pau Cubarsí,Barcelona,7.1038461538462,77.6
+Group H,Spain,Luis de la Fuente,Defenders,Aymeric Laporte,Athletic Club,6.91,73.2
+Group H,Spain,Luis de la Fuente,Defenders,Álex Grimaldo,Bayer Leverkusen,7.27,85.365
+Group H,Spain,Luis de la Fuente,Defenders,Pedro Porro,Tottenham Hotspur,6.8586206896552,72.1
+Group H,Spain,Luis de la Fuente,Defenders,Eric García,Barcelona,7.1034482758621,77.6
+Group H,Spain,Luis de la Fuente,Defenders,Marcos Llorente,Atlético Madrid,6.968,74.5
+Group H,Spain,Luis de la Fuente,Defenders,Marc Pubill,Atlético Madrid,7.2846153846154,85.78500000000001
+Group H,Spain,Luis de la Fuente,Midfielders,Gavi,Barcelona,6.88,72.6
+Group H,Spain,Luis de la Fuente,Midfielders,Rodri,Manchester City,7.4210526315789,88.935
+Group H,Spain,Luis de la Fuente,Midfielders,Pedri,Barcelona,7.5739130434783,92.61000000000001
+Group H,Spain,Luis de la Fuente,Midfielders,Martín Zubimendi,Arsenal,7.0666666666667,76.8
+Group H,Spain,Luis de la Fuente,Midfielders,Fabián Ruiz,PSG,7.0285714285714,75.9
+Group H,Spain,Luis de la Fuente,Midfielders,Álex Baena,Atlético Madrid,6.947619047619,74.1
+Group H,Spain,Luis de la Fuente,Midfielders,Mikel Merino,Arsenal,6.8619047619048,72.1
+Group H,Spain,Luis de la Fuente,Forwards,Lamine Yamal,Barcelona,7.9222222222222,99.0
+Group H,Spain,Luis de la Fuente,Forwards,Nico Williams,Athletic Club,6.9380952380952,73.9
+Group H,Spain,Luis de la Fuente,Forwards,Dani Olmo,Barcelona,7.1384615384615,78.4
+Group H,Spain,Luis de la Fuente,Forwards,Ferran Torres,Barcelona,6.8392857142857,71.6
+Group H,Spain,Luis de la Fuente,Forwards,Mikel Oyarzabal,Real Sociedad,7.0592592592593,76.6
+Group H,Spain,Luis de la Fuente,Forwards,Yéremy Pino,Crystal Palace,6.8785714285714,72.5
+Group H,Spain,Luis de la Fuente,Forwards,Borja Iglesias,Celta Vigo,6.7428571428571,69.5
+Group H,Spain,Luis de la Fuente,Forwards,Víctor Muñoz,Osasuna,6.7838709677419,70.4
+Group H,Cape Verde,Bubista,Goalkeepers,Vozinha,Chaves,6.58,65.8
+Group H,Cape Verde,Bubista,Goalkeepers,Marcio Rosa,Montana,6.69,68.3
+Group H,Cape Verde,Bubista,Goalkeepers,CJ dos Santos,San Diego FC,6.9142857142857,73.3
+Group H,Cape Verde,Bubista,Defenders,Steven Moreira,Columbus Crew,6.83,71.4
+Group H,Cape Verde,Bubista,Defenders,Wagner Pina,Trabzonspor,6.8814814814815,72.6
+Group H,Cape Verde,Bubista,Defenders,Joao Paulo,FCSB,7.15,78.6
+Group H,Cape Verde,Bubista,Defenders,Sidny Lopes Cabral,Benfica,7.1913043478261,83.58
+Group H,Cape Verde,Bubista,Defenders,Logan Costa,Villarreal,6.64,67.2
+Group H,Cape Verde,Bubista,Defenders,Pico,Shamrock Rovers,6.59,66.0
+Group H,Cape Verde,Bubista,Defenders,Kelvin Pires,SJK,6.8,70.8
+Group H,Cape Verde,Bubista,Defenders,Stopira,Torreense,6.8,70.8
+Group H,Cape Verde,Bubista,Defenders,Diney,Al Bataeh,6.65,67.4
+Group H,Cape Verde,Bubista,Midfielders,Jamiro Monteiro,PEC Zwolle,6.7,68.5
+Group H,Cape Verde,Bubista,Midfielders,Telmo Arcanjo,Vitoria Guimaraes,6.788,70.5
+Group H,Cape Verde,Bubista,Midfielders,Yannick Semedo,Farense,6.66,67.6
+Group H,Cape Verde,Bubista,Midfielders,Laros Duarte,Puskas Akademia,6.8,70.8
+Group H,Cape Verde,Bubista,Midfielders,Deroy Duarte,Ludogorets Razgrad,6.6772727272727,68.0
+Group H,Cape Verde,Bubista,Midfielders,Kevin Pina,Krasnodar,6.7782608695652,70.3
+Group H,Cape Verde,Bubista,Forwards,Ryan Mendes,Igdir,6.46,63.1
+Group H,Cape Verde,Bubista,Forwards,Willy Semedo,Omonia,6.47,63.3
+Group H,Cape Verde,Bubista,Forwards,Garry Rodrigues,Apollon Limassol,7.4210526315789,88.935
+Group H,Cape Verde,Bubista,Forwards,Jovane Cabral,Estrela Amadora,6.9826086956522,74.9
+Group H,Cape Verde,Bubista,Forwards,Nuno da Costa,Istanbul Basaksehir,6.6913043478261,68.3
+Group H,Cape Verde,Bubista,Forwards,Dailon Livramento,Casa Pia,6.4473684210526,62.8
+Group H,Cape Verde,Bubista,Forwards,Gilson Benchimol,Akron Tolyatti,6.61,66.5
+Group H,Cape Verde,Bubista,Forwards,Helio Varela,Maccabi Tel Aviv,6.71,68.7
+Group H,Uruguay,Marcelo Bielsa,Goalkeepers,Fernando Muslera,Estudiantes de La Plata,6.81,71.0
+Group H,Uruguay,Marcelo Bielsa,Goalkeepers,Sergio Rochet,Internacional de Porto Alegre,7.05,76.4
+Group H,Uruguay,Marcelo Bielsa,Goalkeepers,Santiago Mele,Monterrey,6.92,73.5
+Group H,Uruguay,Marcelo Bielsa,Defenders,Ronald Araújo,Barcelona,6.9052631578947,73.1
+Group H,Uruguay,Marcelo Bielsa,Defenders,José María Giménez,Atlético Madrid,6.6238095238095,66.8
+Group H,Uruguay,Marcelo Bielsa,Defenders,Santiago Bueno,Wolverhampton Wanderers,6.7625,69.9
+Group H,Uruguay,Marcelo Bielsa,Defenders,Sebastián Cáceres,América,6.72,69.0
+Group H,Uruguay,Marcelo Bielsa,Defenders,Mathías Olivera,Napoli,6.7272727272727,69.1
+Group H,Uruguay,Marcelo Bielsa,Defenders,Guillermo Varela,Flamengo,6.75,69.6
+Group H,Uruguay,Marcelo Bielsa,Defenders,Matías Viña,River Plate,6.55,65.1
+Group H,Uruguay,Marcelo Bielsa,Defenders,Joaquín Piquerez,Palmeiras,6.75,69.6
+Group H,Uruguay,Marcelo Bielsa,Defenders,Juan Manuel Sanabria,Real Salt Lake,6.6909090909091,68.3
+Group H,Uruguay,Marcelo Bielsa,Midfielders,Federico Valverde,Real Madrid,7.3172413793103,86.52000000000001
+Group H,Uruguay,Marcelo Bielsa,Midfielders,Rodrigo Bentancur,Tottenham Hotspur,6.7142857142857,68.8
+Group H,Uruguay,Marcelo Bielsa,Midfielders,Manuel Ugarte,Manchester United,6.6909090909091,68.3
+Group H,Uruguay,Marcelo Bielsa,Midfielders,Emiliano Martínez,Palmeiras,6.9392857142857,73.9
+Group H,Uruguay,Marcelo Bielsa,Midfielders,Rodrigo Zalazar,Sporting CP,7.4083333333333,88.62
+Group H,Uruguay,Marcelo Bielsa,Midfielders,Giorgian De Arrascaeta,Flamengo,6.9260869565217,73.6
+Group H,Uruguay,Marcelo Bielsa,Midfielders,Nicolás De La Cruz,Flamengo,6.6333333333333,67.0
+Group H,Uruguay,Marcelo Bielsa,Midfielders,Agustín Canobbio,Fluminense,6.69,68.3
+Group H,Uruguay,Marcelo Bielsa,Midfielders,Maximiliano Araújo,Sporting CP,6.7875,70.5
+Group H,Uruguay,Marcelo Bielsa,Midfielders,Brian Rodríguez,América,6.6461538461538,67.3
+Group H,Uruguay,Marcelo Bielsa,Midfielders,Facundo Pellistri,Panathinaikos,6.81,71.0
+Group H,Uruguay,Marcelo Bielsa,Forwards,Darwin Núñez,Al Hilal,6.58,65.8
+Group H,Uruguay,Marcelo Bielsa,Forwards,Federico Viñas,Real Oviedo,6.9814814814815,74.8
+Group H,Uruguay,Marcelo Bielsa,Forwards,Rodrigo Aguirre,Tigres,7.4210526315789,88.935
+Group H,Saudi Arabia,Georgios Donis,Goalkeepers,Mohammed Al Owais,Al Ula,6.85,71.9
+Group H,Saudi Arabia,Georgios Donis,Goalkeepers,Nawaf Al Aqidi,Al Nassr,7.06,76.6
+Group H,Saudi Arabia,Georgios Donis,Goalkeepers,Ahmed Al Kassar,Al Qadsiah,6.73,69.2
+Group H,Saudi Arabia,Georgios Donis,Defenders,Abdulelah Al Amri,Al Nassr,6.83,71.4
+Group H,Saudi Arabia,Georgios Donis,Defenders,Hassan Tambakti,Al Hilal,6.89,72.8
+Group H,Saudi Arabia,Georgios Donis,Defenders,Jehad Thikri,Al Qadsiah,6.5166666666667,64.4
+Group H,Saudi Arabia,Georgios Donis,Defenders,Ali Lajami,Al Hilal,6.7227272727273,69.0
+Group H,Saudi Arabia,Georgios Donis,Defenders,Hassan Kadesh,Al Ittihad,6.67,67.8
+Group H,Saudi Arabia,Georgios Donis,Defenders,Saud Abdulhamid,Lens,6.9681818181818,74.5
+Group H,Saudi Arabia,Georgios Donis,Defenders,Mohammed Abu Al Shamat,Al Qadsiah,6.8631578947368,72.2
+Group H,Saudi Arabia,Georgios Donis,Defenders,Ali Majrashi,Al Ahli,6.55,65.1
+Group H,Saudi Arabia,Georgios Donis,Defenders,Moteb Al Harbi,Al Hilal,6.79,70.5
+Group H,Saudi Arabia,Georgios Donis,Defenders,Nawaf Boushal,Al Nassr,6.75,69.6
+Group H,Saudi Arabia,Georgios Donis,Defenders,Sultan Al-Ghannam,Al Nassr,6.77,70.1
+Group H,Saudi Arabia,Georgios Donis,Midfielders,Mohammed Kanno,Al Hilal,6.6,66.3
+Group H,Saudi Arabia,Georgios Donis,Midfielders,Abdullah Al Khaibari,Al Nassr,6.75,69.6
+Group H,Saudi Arabia,Georgios Donis,Midfielders,Ziyad Al Johani,Al Ahli,6.85,71.9
+Group H,Saudi Arabia,Georgios Donis,Midfielders,Nasser Al Dawsari,Al Hilal,7.04,76.2
+Group H,Saudi Arabia,Georgios Donis,Midfielders,Musab Al Juwayr,Al Qadsiah,6.94,73.9
+Group H,Saudi Arabia,Georgios Donis,Midfielders,Alaa Al Hajji,Neom,7.18,83.265
+Group H,Saudi Arabia,Georgios Donis,Midfielders,Salem Al Dawsari,Al Hilal,6.6,66.3
+Group H,Saudi Arabia,Georgios Donis,Midfielders,Khalid Al Ghannam,Al Ettifaq,6.92,73.5
+Group H,Saudi Arabia,Georgios Donis,Midfielders,Ayman Yahya,Al Nassr,6.79,70.5
+Group H,Saudi Arabia,Georgios Donis,Forwards,Firas Al Buraikan,Al Ahli,7.19,83.47500000000001
+Group H,Saudi Arabia,Georgios Donis,Forwards,Saleh Al Shehri,Al Ittihad,6.59,66.0
+Group H,Saudi Arabia,Georgios Donis,Forwards,Abdullah Al Hamdan,Al Nassr,6.58,65.8
+Group I,France,Didier Deschamps,Goalkeepers,Mike Maignan,AC Milan,7.20625,83.89500000000001
+Group I,France,Didier Deschamps,Goalkeepers,Robin Risser,Lens,7.1172413793103,77.9
+Group I,France,Didier Deschamps,Goalkeepers,Brice Samba,Rennes,6.9344827586207,73.8
+Group I,France,Didier Deschamps,Defenders,Lucas Digne,Aston Villa,6.7642857142857,69.9
+Group I,France,Didier Deschamps,Defenders,Malo Gusto,Chelsea,6.6833333333333,68.1
+Group I,France,Didier Deschamps,Defenders,Lucas Hernández,Paris Saint-Germain,7.035,76.0
+Group I,France,Didier Deschamps,Defenders,Theo Hernández,Al Hilal,6.7961538461538,70.7
+Group I,France,Didier Deschamps,Defenders,Ibrahima Konaté,Liverpool,7.0935483870968,77.4
+Group I,France,Didier Deschamps,Defenders,Jules Koundé,Barcelona,6.9,73.0
+Group I,France,Didier Deschamps,Defenders,Maxence Lacroix,Crystal Palace,6.8827586206897,72.6
+Group I,France,Didier Deschamps,Defenders,William Saliba,Arsenal,6.9692307692308,74.6
+Group I,France,Didier Deschamps,Defenders,Dayot Upamecano,Bayern Munich,7.15,78.6
+Group I,France,Didier Deschamps,Midfielders,N'Golo Kanté,Fenerbahçe,7.16,82.84500000000001
+Group I,France,Didier Deschamps,Midfielders,Manu Koné,AS Roma,7.0230769230769,75.8
+Group I,France,Didier Deschamps,Midfielders,Adrien Rabiot,AC Milan,7.2875,85.78500000000001
+Group I,France,Didier Deschamps,Midfielders,Aurélien Tchouaméni,Real Madrid,7.2357142857143,84.63
+Group I,France,Didier Deschamps,Midfielders,Warren Zaïre-Emery,Paris Saint-Germain,6.9785714285714,74.8
+Group I,France,Didier Deschamps,Forwards,Maghnes Akliouche,AS Monaco,7.0555555555556,76.5
+Group I,France,Didier Deschamps,Forwards,Bradley Barcola,Paris Saint-Germain,7.3130434782609,86.415
+Group I,France,Didier Deschamps,Forwards,Rayan Cherki,Manchester City,7.2740740740741,85.47000000000001
+Group I,France,Didier Deschamps,Forwards,Ousmane Dembélé,Paris Saint-Germain,7.5111111111111,91.14
+Group I,France,Didier Deschamps,Forwards,Désiré Doué,Paris Saint-Germain,7.0263157894737,75.8
+Group I,France,Didier Deschamps,Forwards,Jean-Philippe Mateta,Crystal Palace,6.78,70.3
+Group I,France,Didier Deschamps,Forwards,Kylian Mbappé,Real Madrid,7.6653846153846,94.71000000000001
+Group I,France,Didier Deschamps,Forwards,Michael Olise,Bayern Munich,7.775,97.33500000000001
+Group I,France,Didier Deschamps,Forwards,Marcus Thuram,Internazionale,7.0307692307692,75.9
+Group I,Senegal,Pape Thiaw,Goalkeepers,Édouard Mendy,Al Ahli,6.63,66.9
+Group I,Senegal,Pape Thiaw,Goalkeepers,Mory Diaw,Le Havre AC,7.0038461538462,75.3
+Group I,Senegal,Pape Thiaw,Goalkeepers,Yehvann Diouf,Nice,7.0545454545455,76.5
+Group I,Senegal,Pape Thiaw,Defenders,Krépin Diatta,AS Monaco,6.9,73.0
+Group I,Senegal,Pape Thiaw,Defenders,Antoine Mendy,Nice,6.7904761904762,70.5
+Group I,Senegal,Pape Thiaw,Defenders,Kalidou Koulibaly,Al Hilal,6.33,60.2
+Group I,Senegal,Pape Thiaw,Defenders,El Hadji Malick Diouf,West Ham United,6.6730769230769,67.9
+Group I,Senegal,Pape Thiaw,Defenders,Mamadou Sarr,Chelsea,6.15,56.1
+Group I,Senegal,Pape Thiaw,Defenders,Moussa Niakhaté,Lyon,7.2357142857143,84.63
+Group I,Senegal,Pape Thiaw,Defenders,Abdoulaye Seck,Maccabi Haifa,6.64,67.2
+Group I,Senegal,Pape Thiaw,Defenders,Ismail Jakobs,Galatasaray,6.7571428571429,69.8
+Group I,Senegal,Pape Thiaw,Midfielders,Idrissa Gana Gueye,Everton,6.825,71.3
+Group I,Senegal,Pape Thiaw,Midfielders,Pape Gueye,Villarreal,7.092,77.3
+Group I,Senegal,Pape Thiaw,Midfielders,Lamine Camara,AS Monaco,7.1,77.5
+Group I,Senegal,Pape Thiaw,Midfielders,Habib Diarra,Sunderland,6.725,69.1
+Group I,Senegal,Pape Thiaw,Midfielders,Pathé Ciss,Rayo Vallecano,6.9590909090909,74.3
+Group I,Senegal,Pape Thiaw,Midfielders,Pape Matar Sarr,Tottenham Hotspur,6.8173913043478,71.1
+Group I,Senegal,Pape Thiaw,Midfielders,Bara Sapoko Ndiaye,Bayern Munich,6.75,69.6
+Group I,Senegal,Pape Thiaw,Forwards,Sadio Mané,Al Nassr,6.6,66.3
+Group I,Senegal,Pape Thiaw,Forwards,Ismaïla Sarr,Crystal Palace,6.8904761904762,72.8
+Group I,Senegal,Pape Thiaw,Forwards,Iliman Ndiaye,Everton,6.9333333333333,73.7
+Group I,Senegal,Pape Thiaw,Forwards,Assane Diao,Como,6.75,69.6
+Group I,Senegal,Pape Thiaw,Forwards,Ibrahim Mbaye,Paris Saint-Germian,6.7111111111111,68.7
+Group I,Senegal,Pape Thiaw,Forwards,Nicolas Jackson,Chelsea,6.7,68.5
+Group I,Senegal,Pape Thiaw,Forwards,Bamba Dieng,Lorient,6.85,71.9
+Group I,Senegal,Pape Thiaw,Forwards,Cherif Ndiaye,Samsunspor,6.6714285714286,67.9
+Group I,Iraq,Graham Arnold,Goalkeepers,Fahad Talib,Al-Talaba,6.78,70.3
+Group I,Iraq,Graham Arnold,Goalkeepers,Jalal Hassan,Al-Zawraa,6.82,71.2
+Group I,Iraq,Graham Arnold,Goalkeepers,Ahmed Basil,Al-Shorta,7.13,78.2
+Group I,Iraq,Graham Arnold,Defenders,Hussein Ali,Pogoń Szczecin,6.94,73.9
+Group I,Iraq,Graham Arnold,Defenders,Manaf Younis,Al-Shorta,6.63,66.9
+Group I,Iraq,Graham Arnold,Defenders,Zaid Tahseen,Pakhtakor,6.57,65.6
+Group I,Iraq,Graham Arnold,Defenders,Rebin Sulaka,Port FC,7.05,76.4
+Group I,Iraq,Graham Arnold,Defenders,Akam Hashem,Al-Zawraa,6.49,63.8
+Group I,Iraq,Graham Arnold,Defenders,Merchas Doski,Viktoria Plzeň,7.12,78.0
+Group I,Iraq,Graham Arnold,Defenders,Ahmed Yahya,Al-Shorta,6.99,75.0
+Group I,Iraq,Graham Arnold,Defenders,Zaid Ismail,Al-Talaba,6.66,67.6
+Group I,Iraq,Graham Arnold,Defenders,Frans Putros,Port FC,6.61,66.5
+Group I,Iraq,Graham Arnold,Defenders,Mustafa Saadoon,Al-Shorta,7.02,75.7
+Group I,Iraq,Graham Arnold,Midfielders,Amir Al-Ammari,Cracovia,6.73,69.2
+Group I,Iraq,Graham Arnold,Midfielders,Kevin Yakob,AGF Aarhus,6.7782608695652,70.3
+Group I,Iraq,Graham Arnold,Midfielders,Zidane Iqbal,FC Utrecht,7.06,76.6
+Group I,Iraq,Graham Arnold,Midfielders,Aimar Sher,Sarpsborg 08,7.0,75.3
+Group I,Iraq,Graham Arnold,Midfielders,Ibrahim Bayesh,Al-Riyadh,6.43,62.4
+Group I,Iraq,Graham Arnold,Midfielders,Ahmed Qasim,Elfsborg,6.63,66.9
+Group I,Iraq,Graham Arnold,Midfielders,Youssef Amyn,Eintracht Braunschweig,6.655,67.5
+Group I,Iraq,Graham Arnold,Midfielders,Marko Farji,Strømsgodset,6.6793103448276,68.0
+Group I,Iraq,Graham Arnold,Forwards,Ali Jasim,Como,6.7227272727273,69.0
+Group I,Iraq,Graham Arnold,Forwards,Ali Al-Hamadi,Ipswich Town,6.55,65.1
+Group I,Iraq,Graham Arnold,Forwards,Ali Yousef,Al-Shorta,6.8666666666667,72.3
+Group I,Iraq,Graham Arnold,Forwards,Aymen Hussein,Al-Khor,6.75,69.6
+Group I,Iraq,Graham Arnold,Forwards,Mohanad Ali,Al-Shorta,6.76,69.9
+Group I,Norway,Stale Solbakken,Goalkeepers,Ørjan Nyland,Sevilla,6.65,67.4
+Group I,Norway,Stale Solbakken,Goalkeepers,Egil Selvik,Watford,6.66,67.6
+Group I,Norway,Stale Solbakken,Goalkeepers,Sander Tangvik,Hamburg SV,6.87,72.3
+Group I,Norway,Stale Solbakken,Defenders,Julian Ryerson,Borussia Dortmund,7.0884615384615,77.2
+Group I,Norway,Stale Solbakken,Defenders,Kristoffer Ajer,Brentford,6.6375,67.1
+Group I,Norway,Stale Solbakken,Defenders,Leo Østigård,Genoa,7.1777777777778,83.265
+Group I,Norway,Stale Solbakken,Defenders,David Møller Wolfe,Wolverhampton Wanderers,6.625,66.8
+Group I,Norway,Stale Solbakken,Defenders,Marcus Pedersen,Torino,6.5,64.0
+Group I,Norway,Stale Solbakken,Defenders,Torbjørn Heggem,Bologna,6.6826086956522,68.1
+Group I,Norway,Stale Solbakken,Defenders,Fredrik André Bjørkan,Bodø/Glimt,6.85,71.9
+Group I,Norway,Stale Solbakken,Defenders,Henrik Falchener,Viking,6.54,64.9
+Group I,Norway,Stale Solbakken,Defenders,Sondre Langås,Derby County,6.72,69.0
+Group I,Norway,Stale Solbakken,Midfielders,Martin Ødegaard,Arsenal,6.9666666666667,74.5
+Group I,Norway,Stale Solbakken,Midfielders,Sander Berge,Fulham,6.85625,72.0
+Group I,Norway,Stale Solbakken,Midfielders,Patrick Berg,Bodø/Glimt,6.8545454545455,72.0
+Group I,Norway,Stale Solbakken,Midfielders,Kristian Thorstvedt,Sassuolo,6.8518518518519,71.9
+Group I,Norway,Stale Solbakken,Midfielders,Morten Thorsby,Cremonese,6.6809523809524,68.1
+Group I,Norway,Stale Solbakken,Midfielders,Thelo Aasgaard,Rangers,6.77,70.1
+Group I,Norway,Stale Solbakken,Midfielders,Andreas Schjelderup,Benfica,7.2291666666667,84.42000000000002
+Group I,Norway,Stale Solbakken,Midfielders,Jens Petter Hauge,Bodø/Glimt,7.012,75.5
+Group I,Norway,Stale Solbakken,Midfielders,Fredrik Aursnes,Benfica,7.1166666666667,77.9
+Group I,Norway,Stale Solbakken,Midfielders,Oscar Bobb,Fulham,6.7666666666667,70.0
+Group I,Norway,Stale Solbakken,Midfielders,Antonio Nusa,RB Leipzig,7.1333333333333,78.2
+Group I,Norway,Stale Solbakken,Forwards,Erling Haaland,Manchester City,7.3193548387097,86.52000000000001
+Group I,Norway,Stale Solbakken,Forwards,Alexander Sørloth,Atlético Madrid,6.7433333333333,69.5
+Group I,Norway,Stale Solbakken,Forwards,Jørgen Strand Larsen,Crystal Palace,6.4137931034483,62.1
+Group J,Argentina,Lionel Scaloni,Goalkeepers,Emiliano Martínez,Aston Villa,6.9392857142857,73.9
+Group J,Argentina,Lionel Scaloni,Goalkeepers,Gerónimo Rulli,Marseille,7.1269230769231,78.1
+Group J,Argentina,Lionel Scaloni,Goalkeepers,Juan Musso,Atlético Madrid,6.92,73.5
+Group J,Argentina,Lionel Scaloni,Defenders,Gonzalo Montiel,River Plate,6.85,71.9
+Group J,Argentina,Lionel Scaloni,Defenders,Nahuel Molina,Atlético Madrid,6.7857142857143,70.4
+Group J,Argentina,Lionel Scaloni,Defenders,Lisandro Martínez,Manchester United,7.0666666666667,76.8
+Group J,Argentina,Lionel Scaloni,Defenders,Nicolás Otamendi,Benfica,7.4740740740741,90.19500000000001
+Group J,Argentina,Lionel Scaloni,Defenders,Leonardo Balerdi,Marseille,6.85,71.9
+Group J,Argentina,Lionel Scaloni,Defenders,Cristian Romero,Tottenham,7.1086956521739,77.7
+Group J,Argentina,Lionel Scaloni,Defenders,Facundo Medina,Marseille,6.7,68.5
+Group J,Argentina,Lionel Scaloni,Defenders,Nicolás Tagliafico,Lyon,6.7,68.5
+Group J,Argentina,Lionel Scaloni,Midfielders,Leandro Paredes,Boca Juniors,6.89,72.8
+Group J,Argentina,Lionel Scaloni,Midfielders,Rodrigo De Paul,Inter Miami,7.4210526315789,88.935
+Group J,Argentina,Lionel Scaloni,Midfielders,Exequiel Palacios,Bayer Leverkusen,6.9928571428571,75.1
+Group J,Argentina,Lionel Scaloni,Midfielders,Enzo Fernández,Chelsea,7.1387096774194,78.4
+Group J,Argentina,Lionel Scaloni,Midfielders,Alexis Mac Allister,Liverpool,6.721875,69.0
+Group J,Argentina,Lionel Scaloni,Midfielders,Giovani Lo Celso,Real Betis,7.0611111111111,76.6
+Group J,Argentina,Lionel Scaloni,Midfielders,Valentín Barco,Strasbourg,7.148,78.6
+Group J,Argentina,Lionel Scaloni,Forwards,Lionel Messi,Inter Miami,6.53,64.7
+Group J,Argentina,Lionel Scaloni,Forwards,Nico Paz,Como,7.359375,87.465
+Group J,Argentina,Lionel Scaloni,Forwards,Thiago Almada,Atlético Madrid,6.9,73.0
+Group J,Argentina,Lionel Scaloni,Forwards,Nicolás González,Atletico Madrid,6.8,70.8
+Group J,Argentina,Lionel Scaloni,Forwards,Giuliano Simeone,Atlético Madrid,6.9333333333333,73.7
+Group J,Argentina,Lionel Scaloni,Forwards,Lautaro Martínez,Internazionale,7.0961538461538,77.4
+Group J,Argentina,Lionel Scaloni,Forwards,Jose Manuel López,Palmeiras,6.795,70.6
+Group J,Argentina,Lionel Scaloni,Forwards,Julián Álvarez,Atlético Madrid,6.9551724137931,74.2
+Group J,Algeria,Vladimir Petkovic,Goalkeepers,Oussama Benbot,USM Alger,6.44,62.7
+Group J,Algeria,Vladimir Petkovic,Goalkeepers,Melvin Masstil,Stade Nyonnaise,7.01,75.5
+Group J,Algeria,Vladimir Petkovic,Goalkeepers,Luca Zidane,Granada,6.82,71.2
+Group J,Algeria,Vladimir Petkovic,Defenders,Achraf Abada,USM Alger,6.6,66.3
+Group J,Algeria,Vladimir Petkovic,Defenders,Rayan Ait Nouri,Manchester City,6.98,74.8
+Group J,Algeria,Vladimir Petkovic,Defenders,Zinedine Belaid,JS Kabylie,7.06,76.6
+Group J,Algeria,Vladimir Petkovic,Defenders,Rafik Belghali,Verona,6.7095238095238,68.7
+Group J,Algeria,Vladimir Petkovic,Defenders,Ramy Bensebaini,Borussia Dortmund,7.2722222222222,85.47000000000001
+Group J,Algeria,Vladimir Petkovic,Defenders,Samir Chergui,Paris FC,6.4846153846154,63.7
+Group J,Algeria,Vladimir Petkovic,Defenders,Jaouen Hadjam,Young Boys,6.77,70.1
+Group J,Algeria,Vladimir Petkovic,Defenders,Aissa Mandi,Lille,7.248,84.84
+Group J,Algeria,Vladimir Petkovic,Defenders,Mohamed Amine Tougai,Esperance,6.8916666666667,72.8
+Group J,Algeria,Vladimir Petkovic,Midfielders,Houssem Aouar,Al Ittihad,6.99,75.0
+Group J,Algeria,Vladimir Petkovic,Midfielders,Nabil Bentaleb,Lille,6.9708333333333,74.6
+Group J,Algeria,Vladimir Petkovic,Midfielders,Hicham Boudaoui,Nice,6.7571428571429,69.8
+Group J,Algeria,Vladimir Petkovic,Midfielders,Fares Chaibi,Eintracht Frankfurt,6.85,71.9
+Group J,Algeria,Vladimir Petkovic,Midfielders,Ibrahim Maza,Bayer Leverkusen,7.1333333333333,78.2
+Group J,Algeria,Vladimir Petkovic,Midfielders,Yassine Titraoui,Charleroi,6.76,69.9
+Group J,Algeria,Vladimir Petkovic,Midfielders,Ramiz Zerrouki,FC Twente,7.2178571428571,84.21000000000001
+Group J,Algeria,Vladimir Petkovic,Forwards,Mohamed Amine Amoura,VfL Wolfsburg,6.7666666666667,70.0
+Group J,Algeria,Vladimir Petkovic,Forwards,Nadir Benbouali,Győri ETO,7.16,82.84500000000001
+Group J,Algeria,Vladimir Petkovic,Forwards,Adil Boulbina,Al Duhail,7.1,77.5
+Group J,Algeria,Vladimir Petkovic,Forwards,Fares Ghedjemis,Frosinone,6.7,68.5
+Group J,Algeria,Vladimir Petkovic,Forwards,Amine Gouiri,Marseille,6.9736842105263,74.7
+Group J,Algeria,Vladimir Petkovic,Forwards,Riyad Mahrez,Al Ahli,6.94,73.9
+Group J,Algeria,Vladimir Petkovic,Forwards,Anis Hadj Moussa,Feyenoord,7.4346153846154,89.25
+Group J,Austria,Ralf Rangnick,Goalkeepers,Alexander Schlager,RB Salzburg,6.88,72.6
+Group J,Austria,Ralf Rangnick,Goalkeepers,Florian Wiegele,Viktoria Plzen,7.02,75.7
+Group J,Austria,Ralf Rangnick,Goalkeepers,Patrick Pentz,Brondby,6.8545454545455,72.0
+Group J,Austria,Ralf Rangnick,Defenders,David Affengruber,Elche,6.8275862068966,71.4
+Group J,Austria,Ralf Rangnick,Defenders,Kevin Danso,Tottehham,6.8176470588235,71.1
+Group J,Austria,Ralf Rangnick,Defenders,Stefan Posch,Mainz 05,7.0833333333333,77.1
+Group J,Austria,Ralf Rangnick,Defenders,David Alaba,Real Madrid,6.7857142857143,70.4
+Group J,Austria,Ralf Rangnick,Defenders,Philipp Lienhart,SC Freiburg,6.94375,74.0
+Group J,Austria,Ralf Rangnick,Defenders,Philipp Mwene,Mainz 05,6.728,69.1
+Group J,Austria,Ralf Rangnick,Defenders,Alexander Prass,TSG Hoffenheim,6.8666666666667,72.3
+Group J,Austria,Ralf Rangnick,Defenders,Marco Friedl,Werder Bremen,6.9148148148148,73.3
+Group J,Austria,Ralf Rangnick,Defenders,Michael Svoboda,Venezia,6.56,65.4
+Group J,Austria,Ralf Rangnick,Midfielders,Xaver Schlager,RB Leipzig,6.8869565217391,72.7
+Group J,Austria,Ralf Rangnick,Midfielders,Nicolas Seiwald,RB Leipzig,6.9166666666667,73.4
+Group J,Austria,Ralf Rangnick,Midfielders,Marcel Sabitzer,Borussia Dortmund,6.8636363636364,72.2
+Group J,Austria,Ralf Rangnick,Midfielders,Florian Grillitsch,Braga,6.9473684210526,74.1
+Group J,Austria,Ralf Rangnick,Midfielders,Carney Chukwuemeka,Borussia Dortmund,6.704347826087,68.6
+Group J,Austria,Ralf Rangnick,Midfielders,Romano Schmid,Werder Bremen,6.8466666666667,71.8
+Group J,Austria,Ralf Rangnick,Midfielders,Christoph Baumgartner,RB Leipzig,6.9758620689655,74.7
+Group J,Austria,Ralf Rangnick,Midfielders,Konrad Laimer,Bayern Munich,6.828,71.4
+Group J,Austria,Ralf Rangnick,Midfielders,Patrick Wimmer,Wolfsburg,6.8454545454545,71.8
+Group J,Austria,Ralf Rangnick,Midfielders,Paul Wanner,PSV Eindhoven,6.9315789473684,73.7
+Group J,Austria,Ralf Rangnick,Midfielders,Alessandro Schopf,Wolfsberger AC,6.89,72.8
+Group J,Austria,Ralf Rangnick,Forwards,Marko Arnautovic,Red Star Belgrade,6.96,74.4
+Group J,Austria,Ralf Rangnick,Forwards,Michael Gregoritsch,FC Augsburg,6.7615384615385,69.9
+Group J,Austria,Ralf Rangnick,Forwards,Sasa Kalajdzic,LASK Linz,6.4,61.8
+Group J,Jordan,Jamal Sellami,Goalkeepers,Yazid Abulaila,Al-Hussein,6.51,64.2
+Group J,Jordan,Jamal Sellami,Goalkeepers,Abdallah Al-Fakhouri,Al-Wehdat,6.6933333333333,68.3
+Group J,Jordan,Jamal Sellami,Goalkeepers,Nour Bani Attiah,Al-Faisaly,6.34,60.4
+Group J,Jordan,Jamal Sellami,Defenders,Ihsan Haddad,Al-Hussein,6.7,68.5
+Group J,Jordan,Jamal Sellami,Defenders,Saed Al-Rosan,Al-Hussein,6.89,72.8
+Group J,Jordan,Jamal Sellami,Defenders,Mohammad Abualnadi,Selangor,7.05,76.4
+Group J,Jordan,Jamal Sellami,Defenders,Husam Abu Dahab,Al-Faisaly,6.4555555555556,63.0
+Group J,Jordan,Jamal Sellami,Defenders,Mohammed Abu Hashish,Al-Karma,6.4555555555556,63.0
+Group J,Jordan,Jamal Sellami,Defenders,Yazan Al-Arab,FC Seoul,6.96,74.4
+Group J,Jordan,Jamal Sellami,Defenders,Anas Badawi,Al-Faisaly,7.08,77.1
+Group J,Jordan,Jamal Sellami,Defenders,Abdallah Nasib,Al-Zawraa,6.47,63.3
+Group J,Jordan,Jamal Sellami,Defenders,Saleem Obaid,Al-Hussein,6.41,62.0
+Group J,Jordan,Jamal Sellami,Midfielders,Mohammed Al-Dawoud,Al-Wehdat,6.74,69.4
+Group J,Jordan,Jamal Sellami,Midfielders,Nizar Al-Rashdan,Qatar SC,6.83,71.4
+Group J,Jordan,Jamal Sellami,Midfielders,Noor Al-Rawabdeh,Selangor,6.74,69.4
+Group J,Jordan,Jamal Sellami,Midfielders,Rajaei Ayed,Al-Hussein,6.34,60.4
+Group J,Jordan,Jamal Sellami,Midfielders,Amer Jamous,Al-Zawraa,6.73,69.2
+Group J,Jordan,Jamal Sellami,Midfielders,Ibrahim Sadeh,Al-Karma,6.635,67.0
+Group J,Jordan,Jamal Sellami,Midfielders,Mohannad Abu Taha,Al-Quwa Al-Jawiya,6.4555555555556,63.0
+Group J,Jordan,Jamal Sellami,Forwards,Mohammed Abu Zrayq,Raja Casablanca,6.4555555555556,63.0
+Group J,Jordan,Jamal Sellami,Forwards,Mousa Al-Tamari,Rennes,6.875,72.4
+Group J,Jordan,Jamal Sellami,Forwards,Ali Azaizeh,Al-Shabab,6.49,63.8
+Group J,Jordan,Jamal Sellami,Forwards,Odeh Al-Fakhouri,Pyramids,6.88,72.6
+Group J,Jordan,Jamal Sellami,Forwards,Ali Olwan,Al-Sailiaya,6.7227272727273,69.0
+Group J,Jordan,Jamal Sellami,Forwards,Ibrahim Sabra,Lokomotiva Zagreb,6.82,71.2
+Group J,Jordan,Jamal Sellami,Forwards,Mahmoud Al-Mardi,Al-Hussein,6.56,65.4
+Group K,Portugal,Roberto Martinez,Goalkeepers,Diogo Costa,Porto,7.0266666666667,75.9
+Group K,Portugal,Roberto Martinez,Goalkeepers,José Sá,Wolverhampton Wanderers,6.6238095238095,66.8
+Group K,Portugal,Roberto Martinez,Goalkeepers,Rui Silva,Sporting Lisbon,7.1,77.5
+Group K,Portugal,Roberto Martinez,Goalkeepers,Ricardo Velho,Gençlerbirliği,7.2210526315789,84.21000000000001
+Group K,Portugal,Roberto Martinez,Defenders,Rúben Dias,Manchester City,7.2,83.79
+Group K,Portugal,Roberto Martinez,Defenders,João Cancelo,Barcelona,7.1888888888889,83.47500000000001
+Group K,Portugal,Roberto Martinez,Defenders,Diogo Dalot,Manchester United,6.8677419354839,72.3
+Group K,Portugal,Roberto Martinez,Defenders,Nuno Mendes,Paris Saint-Germain,7.2444444444444,84.73500000000001
+Group K,Portugal,Roberto Martinez,Defenders,Nélson Semedo,Fenerbahce,6.9272727272727,73.6
+Group K,Portugal,Roberto Martinez,Defenders,Matheus Nunes,Manchester City,6.9586206896552,74.3
+Group K,Portugal,Roberto Martinez,Defenders,Gonçalo Inacio,Sporting Lisbon,7.5538461538462,92.08500000000001
+Group K,Portugal,Roberto Martinez,Defenders,Renato Veiga,Villarreal,6.7333333333333,69.2
+Group K,Portugal,Roberto Martinez,Defenders,Tomás Araújo,Benfica,7.135,78.3
+Group K,Portugal,Roberto Martinez,Midfielders,Bruno Fernandes,Manchester United,7.5466666666667,91.98
+Group K,Portugal,Roberto Martinez,Midfielders,Bernardo Silva,Manchester City,6.834375,71.5
+Group K,Portugal,Roberto Martinez,Midfielders,Vitinha,PSG,6.7709677419355,70.1
+Group K,Portugal,Roberto Martinez,Midfielders,João Neves,PSG,7.28,85.67999999999999
+Group K,Portugal,Roberto Martinez,Midfielders,Rúben Neves,Al Hilal,6.65,67.4
+Group K,Portugal,Roberto Martinez,Midfielders,Samú Costa,Mallorca,6.9178571428571,73.4
+Group K,Portugal,Roberto Martinez,Forwards,Cristiano Ronaldo,Al Nassr,6.54,64.9
+Group K,Portugal,Roberto Martinez,Forwards,Rafael Leão,AC Milan,6.908,73.2
+Group K,Portugal,Roberto Martinez,Forwards,João Félix,Al Nassr,6.74,69.4
+Group K,Portugal,Roberto Martinez,Forwards,Gonçalo Ramos,PSG,6.6307692307692,66.9
+Group K,Portugal,Roberto Martinez,Forwards,Pedro Neto,Chelsea,6.9766666666667,74.7
+Group K,Portugal,Roberto Martinez,Forwards,Francisco Conceição,Juventus,6.9576923076923,74.3
+Group K,Portugal,Roberto Martinez,Forwards,Gonçalo Guedes,Real Sociedad,6.9096774193548,73.2
+Group K,Portugal,Roberto Martinez,Forwards,Francisco Trincão,Sporting Lisbon,7.1896551724138,83.47500000000001
+Group K,Congo DR,Sebastien Desabre,Goalkeepers,Lionel Mpasi,Le Havre,7.825,98.49
+Group K,Congo DR,Sebastien Desabre,Goalkeepers,Timothy Fayulu,FC Noah,7.14,78.4
+Group K,Congo DR,Sebastien Desabre,Goalkeepers,Matthieu Epolo,Standard Liege,6.55,65.1
+Group K,Congo DR,Sebastien Desabre,Defenders,Chancel Mbemba,Lille,6.7666666666667,70.0
+Group K,Congo DR,Sebastien Desabre,Defenders,Axel Tuanzebe,Burnley,6.5272727272727,64.6
+Group K,Congo DR,Sebastien Desabre,Defenders,Arthur Masuaku,Lens,6.7,68.5
+Group K,Congo DR,Sebastien Desabre,Defenders,Gedeon Kalulu,Aris Limassol,6.85,71.9
+Group K,Congo DR,Sebastien Desabre,Defenders,Joris Kayembe,Genk,6.64,67.2
+Group K,Congo DR,Sebastien Desabre,Defenders,Aaron Wan-Bissaka,West Ham United,6.5909090909091,66.0
+Group K,Congo DR,Sebastien Desabre,Defenders,Aaron Tshibola,Kilmarnock,6.59,66.0
+Group K,Congo DR,Sebastien Desabre,Defenders,Steve Kapuadi,Widzew Łódź,6.73,69.2
+Group K,Congo DR,Sebastien Desabre,Defenders,Dylan Batubinsika,AEL,6.3961538461538,61.7
+Group K,Congo DR,Sebastien Desabre,Midfielders,Noah Sadiki,Sunderland,6.7857142857143,70.4
+Group K,Congo DR,Sebastien Desabre,Midfielders,Charles Pickel,Espanyol,6.5111111111111,64.2
+Group K,Congo DR,Sebastien Desabre,Midfielders,Edo Kayembe,Watford,6.54,64.9
+Group K,Congo DR,Sebastien Desabre,Midfielders,Samuel Moutoussamy,Atromitos,6.74,69.4
+Group K,Congo DR,Sebastien Desabre,Midfielders,Ngal'ayel Mukau,Lille,6.5769230769231,65.7
+Group K,Congo DR,Sebastien Desabre,Midfielders,Nathanaël Mbuku,Montpellier,6.64,67.2
+Group K,Congo DR,Sebastien Desabre,Midfielders,Meschak Elia,Alanyaspor,6.4764705882353,63.5
+Group K,Congo DR,Sebastien Desabre,Midfielders,Brian Cipenga,Castellón,6.51,64.2
+Group K,Congo DR,Sebastien Desabre,Midfielders,Gaël Kakuta,AEL,7.14,78.4
+Group K,Congo DR,Sebastien Desabre,Midfielders,Théo Bongonda,Spartak Moscow,6.76,69.9
+Group K,Congo DR,Sebastien Desabre,Forwards,Simon Banza,Al Jazira,6.61,66.5
+Group K,Congo DR,Sebastien Desabre,Forwards,Yoane Wissa,Newcastle United,6.4461538461538,62.8
+Group K,Congo DR,Sebastien Desabre,Forwards,Fiston Mayele,Pyramids FC,6.99,75.0
+Group K,Congo DR,Sebastien Desabre,Forwards,Cédric Bakambu,Real Betis,6.66,67.6
+Group K,Uzbekistan,Fabio Cannavaro,Goalkeepers,Utkir Yusupov,Navbahor,6.73,69.2
+Group K,Uzbekistan,Fabio Cannavaro,Goalkeepers,Botirali Ergashev,AGMK,6.71,68.7
+Group K,Uzbekistan,Fabio Cannavaro,Goalkeepers,Abduvokhid Nematov,Nasaf,6.87,72.3
+Group K,Uzbekistan,Fabio Cannavaro,Defenders,Avazbek Ulmasaliev,AGMK,6.9,73.0
+Group K,Uzbekistan,Fabio Cannavaro,Defenders,Jakhongir Urozov,Dinamo Samarqand,6.64,67.2
+Group K,Uzbekistan,Fabio Cannavaro,Defenders,Rustamjon Ashurmatov,Esteghlal,6.63,66.9
+Group K,Uzbekistan,Fabio Cannavaro,Defenders,Umarbek Eshmurodov,Nasaf,6.69,68.3
+Group K,Uzbekistan,Fabio Cannavaro,Defenders,Abdukodir Khusanov,Manchester City,6.9117647058824,73.3
+Group K,Uzbekistan,Fabio Cannavaro,Defenders,Abdulla Abdullaev,Dibba Al Fujairah,6.29,59.3
+Group K,Uzbekistan,Fabio Cannavaro,Defenders,Farrukh Sayfiev,Neftchi,6.45,62.9
+Group K,Uzbekistan,Fabio Cannavaro,Defenders,Khojiakbar Alijonov,Pakhtakor,7.02,75.7
+Group K,Uzbekistan,Fabio Cannavaro,Defenders,Sherzod Nasrullaev,Nasaf,7.08,77.1
+Group K,Uzbekistan,Fabio Cannavaro,Defenders,Behruz Karimov,Surkhon,6.7,68.5
+Group K,Uzbekistan,Fabio Cannavaro,Midfielders,Sherzod Esanov,Buxoro,6.87,72.3
+Group K,Uzbekistan,Fabio Cannavaro,Midfielders,Umarali Rakhmonaliev,Sabah,6.81,71.0
+Group K,Uzbekistan,Fabio Cannavaro,Midfielders,Akmal Mozgovoy,Pakhtakor,7.37,87.78
+Group K,Uzbekistan,Fabio Cannavaro,Midfielders,Otabek Shukurov,Baniyas,6.97,74.6
+Group K,Uzbekistan,Fabio Cannavaro,Midfielders,Jamshid Iskanderov,Neftchi,6.72,69.0
+Group K,Uzbekistan,Fabio Cannavaro,Midfielders,Azizjon Ganiev,Al Bataeh,6.56,65.4
+Group K,Uzbekistan,Fabio Cannavaro,Midfielders,Abbosek Fayzullaev,Istanbul Basaksehir,6.8777777777778,72.5
+Group K,Uzbekistan,Fabio Cannavaro,Midfielders,Jaloliddin Masharipov,Esteghlal,6.43,62.4
+Group K,Uzbekistan,Fabio Cannavaro,Midfielders,Dostonbek Khamdamov,Pakhtakor,6.79,70.5
+Group K,Uzbekistan,Fabio Cannavaro,Midfielders,Oston Urunov,Persepolis,6.6,66.3
+Group K,Uzbekistan,Fabio Cannavaro,Forwards,Azizbek Amonov,Buxoro,6.47,63.3
+Group K,Uzbekistan,Fabio Cannavaro,Forwards,Igor Sergeev,Persepolis,6.62,66.7
+Group K,Uzbekistan,Fabio Cannavaro,Forwards,Eldor Shomurodov,Istanbul Basaksehir,7.1433333333333,78.5
+Group K,Colombia,Nestor Lorenzo,Goalkeepers,David Ospina,Atlético Nacional,6.625,66.8
+Group K,Colombia,Nestor Lorenzo,Goalkeepers,Álvaro Montero,Vélez Sarsfield,6.53,64.7
+Group K,Colombia,Nestor Lorenzo,Goalkeepers,Camilo Vargas,Atlas,7.09,77.3
+Group K,Colombia,Nestor Lorenzo,Defenders,Daniel Muñoz,Crystal Palace,6.95,74.1
+Group K,Colombia,Nestor Lorenzo,Defenders,Jhon Lucumí,Bologna,6.988,75.0
+Group K,Colombia,Nestor Lorenzo,Defenders,Santiago Arias,Independiente,6.93,73.7
+Group K,Colombia,Nestor Lorenzo,Defenders,Davinson Sánchez,Galatasaray,7.1333333333333,78.2
+Group K,Colombia,Nestor Lorenzo,Defenders,Johan Mojica,Mallorca,6.7133333333333,68.8
+Group K,Colombia,Nestor Lorenzo,Defenders,Yerry Mina,Cagliari,6.9272727272727,73.6
+Group K,Colombia,Nestor Lorenzo,Defenders,Willer Ditta,Cruz Azul,6.75,69.6
+Group K,Colombia,Nestor Lorenzo,Defenders,Deiver Machado,Nantes,6.64,67.2
+Group K,Colombia,Nestor Lorenzo,Midfielders,Jorge Carrascal,Flamengo,7.05,76.4
+Group K,Colombia,Nestor Lorenzo,Midfielders,Kevin Castaño,River Plate,6.7782608695652,70.3
+Group K,Colombia,Nestor Lorenzo,Midfielders,Gustavo Puerta,Racing Santander,6.77,70.1
+Group K,Colombia,Nestor Lorenzo,Midfielders,Juan Fernando Quintero,River Plate,7.1461538461538,78.5
+Group K,Colombia,Nestor Lorenzo,Midfielders,Juan Portilla,Athletico Paranaense,6.9142857142857,73.3
+Group K,Colombia,Nestor Lorenzo,Midfielders,Jefferson Lerma,Crystal Palace,6.7708333333333,70.1
+Group K,Colombia,Nestor Lorenzo,Midfielders,Richard Ríos,Benfica,6.9333333333333,73.7
+Group K,Colombia,Nestor Lorenzo,Midfielders,Jhon Arias,Palmeiras,6.58,65.8
+Group K,Colombia,Nestor Lorenzo,Midfielders,James Rodríguez,Minnesota United,7.0130434782609,75.5
+Group K,Colombia,Nestor Lorenzo,Midfielders,Jaminton Campaz,Rosario Central,7.05,76.4
+Group K,Colombia,Nestor Lorenzo,Forwards,Luis Díaz,Bayern Munich,7.3464285714286,87.15
+Group K,Colombia,Nestor Lorenzo,Forwards,Jhon Córdoba,Krasnodar,6.86,72.1
+Group K,Colombia,Nestor Lorenzo,Forwards,Luis Suárez,Sporting CP,7.2925925925926,85.89
+Group K,Colombia,Nestor Lorenzo,Forwards,Andrés Gómez,Vasco da Gama,6.85,71.9
+Group K,Colombia,Nestor Lorenzo,Forwards,Cucho Hernández,Real Betis,6.7961538461538,70.7
+Group L,England,Thomas Tuchel,Goalkeepers,Jordan Pickford,Everton,7.0333333333333,76.0
+Group L,England,Thomas Tuchel,Goalkeepers,Dean Henderson,Crystal Palace,7.0333333333333,76.0
+Group L,England,Thomas Tuchel,Goalkeepers,James Trafford,Manchester City,7.4,88.515
+Group L,England,Thomas Tuchel,Defenders,Reece James,Chelsea,7.2,83.79
+Group L,England,Thomas Tuchel,Defenders,Ezri Konsa,Aston Villa,6.9903225806452,75.0
+Group L,England,Thomas Tuchel,Defenders,Jarell Quansah,Bayer Leverkusen,6.9291666666667,73.7
+Group L,England,Thomas Tuchel,Defenders,John Stones,Manchester City,6.5666666666667,65.5
+Group L,England,Thomas Tuchel,Defenders,Marc Guéhi,Manchester City,7.3166666666667,86.52000000000001
+Group L,England,Thomas Tuchel,Defenders,Dan Burn,Newcastle United,6.5333333333333,64.7
+Group L,England,Thomas Tuchel,Defenders,Nico O'Reilly,Manchester City,6.9233333333333,73.5
+Group L,England,Thomas Tuchel,Defenders,Djed Spence,Tottenham Hotspur,6.5916666666667,66.1
+Group L,England,Thomas Tuchel,Defenders,Tino Livramento,Newcastle United,6.4473684210526,62.8
+Group L,England,Thomas Tuchel,Midfielders,Declan Rice,Arsenal,7.465625,89.98500000000001
+Group L,England,Thomas Tuchel,Midfielders,Elliot Anderson,Nottingham Forest,7.2727272727273,85.47000000000001
+Group L,England,Thomas Tuchel,Midfielders,Kobbie Mainoo,Manchester United,6.7772727272727,70.2
+Group L,England,Thomas Tuchel,Midfielders,Jordan Henderson,Brentford,6.8206896551724,71.2
+Group L,England,Thomas Tuchel,Midfielders,Morgan Rogers,Aston Villa,6.8848484848485,72.7
+Group L,England,Thomas Tuchel,Midfielders,Jude Bellingham,Real Madrid,7.215,84.105
+Group L,England,Thomas Tuchel,Midfielders,Eberechi Eze,Arsenal,6.9571428571429,74.3
+Group L,England,Thomas Tuchel,Forwards,Harry Kane,Bayern Munich,7.8925925925926,99.0
+Group L,England,Thomas Tuchel,Forwards,Ivan Toney,Al-Ahli,6.54,64.9
+Group L,England,Thomas Tuchel,Forwards,Ollie Watkins,Aston Villa,6.775,70.2
+Group L,England,Thomas Tuchel,Forwards,Bukayo Saka,Arsenal,7.2148148148148,84.105
+Group L,England,Thomas Tuchel,Forwards,Marcus Rashford,Manchester United,6.8538461538462,72.0
+Group L,England,Thomas Tuchel,Forwards,Anthony Gordon,Newcastle United,7.052,76.4
+Group L,England,Thomas Tuchel,Forwards,Noni Madueke,Arsenal,6.8428571428571,71.7
+Group L,Croatia,Zlatko Dalic,Goalkeepers,Dominik Livakovic,Dinamo Zagreb,6.71,68.7
+Group L,Croatia,Zlatko Dalic,Goalkeepers,Dominik Kotarski,Kobenhavn,6.57,65.6
+Group L,Croatia,Zlatko Dalic,Goalkeepers,Ivor Pandur,Hull City,6.67,67.8
+Group L,Croatia,Zlatko Dalic,Defenders,Josko Gvardiol,Manchester City,7.01875,75.7
+Group L,Croatia,Zlatko Dalic,Defenders,Duje Caleta-Car,Real Sociedad,6.7954545454545,70.6
+Group L,Croatia,Zlatko Dalic,Defenders,Josip Sutalo,Ajax,6.847619047619,71.8
+Group L,Croatia,Zlatko Dalic,Defenders,Josip Stanisic,Bayern Munich,6.9409090909091,73.9
+Group L,Croatia,Zlatko Dalic,Defenders,Marin Pongracic,Fiorentina,6.76,69.9
+Group L,Croatia,Zlatko Dalic,Defenders,Martin Erlic,Midtjylland,6.94,73.9
+Group L,Croatia,Zlatko Dalic,Defenders,Luka Vuskovic,Hamburg,7.256,85.05
+Group L,Croatia,Zlatko Dalic,Midfielders,Luka Modric,AC Milan,7.54375,91.875
+Group L,Croatia,Zlatko Dalic,Midfielders,Mateo Kovacic,Manchester City,6.75,69.6
+Group L,Croatia,Zlatko Dalic,Midfielders,Mario Pasalic,Atalanta,6.9392857142857,73.9
+Group L,Croatia,Zlatko Dalic,Midfielders,Nikola Vlasic,Torino,6.90625,73.1
+Group L,Croatia,Zlatko Dalic,Midfielders,Luka Sucic,Real Sociedad,7.13,78.2
+Group L,Croatia,Zlatko Dalic,Midfielders,Martin Baturina,Como,7.1291666666667,78.2
+Group L,Croatia,Zlatko Dalic,Midfielders,Kristijan Jakic,Augsburg,6.7869565217391,70.5
+Group L,Croatia,Zlatko Dalic,Midfielders,Petar Sucic,Inter Milan,7.02,75.7
+Group L,Croatia,Zlatko Dalic,Midfielders,Nikola Moro,Bologna,7.1615384615385,82.84500000000001
+Group L,Croatia,Zlatko Dalic,Midfielders,Toni Fruk,Rijeka,6.7133333333333,68.8
+Group L,Croatia,Zlatko Dalic,Forwards,Ivan Perisic,PSV Eindhoven,7.1740740740741,83.16000000000001
+Group L,Croatia,Zlatko Dalic,Forwards,Andrej Kramaric,Hoffenheim,7.0566666666667,76.5
+Group L,Croatia,Zlatko Dalic,Forwards,Ante Budimir,Osasuna,6.95,74.1
+Group L,Croatia,Zlatko Dalic,Forwards,Marco Pasalic,Orlando City,7.06,76.6
+Group L,Croatia,Zlatko Dalic,Forwards,Petar Musa,FC Dallas,6.82,71.2
+Group L,Croatia,Zlatko Dalic,Forwards,Igor Matanovic,Freiburg,6.6923076923077,68.3
+Group L,Ghana,Carlos Queiroz,Goalkeepers,Benjamin Asare,Accra Hearts of Oak SC,6.4666666666667,63.3
+Group L,Ghana,Carlos Queiroz,Goalkeepers,Lawrence Ati-Zigi,St Gallen,6.65,67.4
+Group L,Ghana,Carlos Queiroz,Goalkeepers,Joseph Anang,St Patrick's Athletic,6.63,66.9
+Group L,Ghana,Carlos Queiroz,Defenders,Baba Abdul Rahman,PAOK Salonika,6.58,65.8
+Group L,Ghana,Carlos Queiroz,Defenders,Gideon Mensah,AJ Auxerre,6.8,70.8
+Group L,Ghana,Carlos Queiroz,Defenders,Marvin Senaya,AJ Auxerre,6.8636363636364,72.2
+Group L,Ghana,Carlos Queiroz,Defenders,Alidu Seidu,Stade Rennais,6.9058823529412,73.1
+Group L,Ghana,Carlos Queiroz,Defenders,Abdul Mumin,Rayo Vallecano,6.5,64.0
+Group L,Ghana,Carlos Queiroz,Defenders,Jerome Opoku,Istanbul Basaksehir,6.8551724137931,72.0
+Group L,Ghana,Carlos Queiroz,Defenders,Jonas Adjetey,VfL Wolfsburg,6.2,57.3
+Group L,Ghana,Carlos Queiroz,Defenders,Kojo Oppong Peprah,Nice,6.752,69.7
+Group L,Ghana,Carlos Queiroz,Defenders,Derrick Luckassen,Pafos,6.76,69.9
+Group L,Ghana,Carlos Queiroz,Midfielders,Elisha Owusu,AJ Auxerre,6.812,71.0
+Group L,Ghana,Carlos Queiroz,Midfielders,Thomas Partey,Villarreal,6.6888888888889,68.3
+Group L,Ghana,Carlos Queiroz,Midfielders,Kwasi Sibo,Real Oviedo,6.6227272727273,66.8
+Group L,Ghana,Carlos Queiroz,Midfielders,Augustine Boakye,Saint-Étienne,6.58,65.8
+Group L,Ghana,Carlos Queiroz,Midfielders,Caleb Yirenkyi,FC Nordsjælland,7.0,75.3
+Group L,Ghana,Carlos Queiroz,Midfielders,Abdul Fatawu Issahaku,Leicester City,6.94,73.9
+Group L,Ghana,Carlos Queiroz,Forwards,Kamal Deen Sulemana,Atalanta,6.7260869565217,69.1
+Group L,Ghana,Carlos Queiroz,Forwards,Christopher Bonsu Baah,Al Qadsiah,6.7,68.5
+Group L,Ghana,Carlos Queiroz,Forwards,Ernest Nuamah,Lyon,6.57,65.6
+Group L,Ghana,Carlos Queiroz,Forwards,Antoine Semenyo,Manchester City,7.0290322580645,75.9
+Group L,Ghana,Carlos Queiroz,Forwards,Brandon Thomas-Asante,Coventry City,6.83,71.4
+Group L,Ghana,Carlos Queiroz,Forwards,Prince Kwabena Adu,Viktoria Plzen,6.9,73.0
+Group L,Ghana,Carlos Queiroz,Forwards,Iñaki Williams,Athletic Club,6.5782608695652,65.8
+Group L,Ghana,Carlos Queiroz,Forwards,Jordan Ayew,Leicester City,6.7904761904762,70.5
+Group L,Panama,Thomas Christiansen,Goalkeepers,Orlando Mosquera,Al Fayha,6.85,71.9
+Group L,Panama,Thomas Christiansen,Goalkeepers,Luis Mejía,Nacional,7.2925925925926,85.89
+Group L,Panama,Thomas Christiansen,Goalkeepers,César Samudio,Marathón,6.74,69.4
+Group L,Panama,Thomas Christiansen,Defenders,César Blackman,Slovan Bratislava,6.55,65.1
+Group L,Panama,Thomas Christiansen,Defenders,Jorge Gutiérrez,Deportivo La Guaira,6.77,70.1
+Group L,Panama,Thomas Christiansen,Defenders,Amir Murillo,Beşiktaş,6.7,68.5
+Group L,Panama,Thomas Christiansen,Defenders,Fidel Escobar,Saprissa,6.9,73.0
+Group L,Panama,Thomas Christiansen,Defenders,Andrés Andrade,LASK,6.85,71.9
+Group L,Panama,Thomas Christiansen,Defenders,Edgardo Fariña,Pari Nizhny Novgorod,6.42,62.2
+Group L,Panama,Thomas Christiansen,Defenders,José Córdoba,Norwich City,6.6642857142857,67.7
+Group L,Panama,Thomas Christiansen,Defenders,Éric Davis,Plaza Amador,6.86,72.1
+Group L,Panama,Thomas Christiansen,Defenders,Jiovany Ramos,Puerto Cabello,6.62,66.7
+Group L,Panama,Thomas Christiansen,Defenders,Roderick Miller,Turan Tovuz,6.86,72.1
+Group L,Panama,Thomas Christiansen,Midfielders,Aníbal Godoy,San Diego FC,6.8,70.8
+Group L,Panama,Thomas Christiansen,Midfielders,Adalberto Carrasquilla,Pumas UNAM,6.39,61.5
+Group L,Panama,Thomas Christiansen,Midfielders,Carlos Harvey,Minnesota United,6.3833333333333,61.4
+Group L,Panama,Thomas Christiansen,Midfielders,Cristian Martínez,Ironi Kiryat Shmona,6.42,62.2
+Group L,Panama,Thomas Christiansen,Midfielders,José Luis Rodríguez,Juárez,6.6545454545455,67.5
+Group L,Panama,Thomas Christiansen,Midfielders,César Yanis,Cobresal,6.9,73.0
+Group L,Panama,Thomas Christiansen,Midfielders,Yoel Bárcenas,Mazatlán,6.76,69.9
+Group L,Panama,Thomas Christiansen,Midfielders,Alberto Quintero,Plaza Amador,6.8,70.8
+Group L,Panama,Thomas Christiansen,Midfielders,Azarias Londoño,Universidad Católica,6.57,65.6
+Group L,Panama,Thomas Christiansen,Forwards,Ismael Díaz,León,6.88,72.6
+Group L,Panama,Thomas Christiansen,Forwards,Cecilio Waterman,Universidad de Concepción,6.42,62.2
+Group L,Panama,Thomas Christiansen,Forwards,José Fajardo,Universidad Católica,6.6642857142857,67.7
+Group L,Panama,Thomas Christiansen,Forwards,Tomás Rodríguez,Saprissa,6.74,69.4
