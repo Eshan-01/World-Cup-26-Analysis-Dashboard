@@ -251,10 +251,10 @@ def load_data():
         if team == 'United States' and 'USA' in pedigree_boosts: 
             pedigree_value = pedigree_boosts['USA']
             
-        # Realistic 3% Host Advantage 
+        # Restored 8% Host Advantage 
         if team in ['United States', 'Mexico', 'Canada']:
-            starting_xi *= 1.03
-            bench *= 1.03
+            starting_xi *= 1.08
+            bench *= 1.08
             
         group_name = f"Group {group_dict.get(code, 'Unknown')}"
         squad_metrics[team] = {
@@ -675,17 +675,8 @@ elif st.session_state.page == 'Simulator':
                 draws = int(np.sum(goals_a == goals_b))
                 scorelines = list(zip(goals_a, goals_b))
                 
-                # --- FIXED: MACRO-OUTCOME FILTERING ---
-                if wins_a > wins_b and wins_a > draws:
-                    valid_scores = [s for s in scorelines if s[0] > s[1]]
-                elif wins_b > wins_a and wins_b > draws:
-                    valid_scores = [s for s in scorelines if s[1] > s[0]]
-                else:
-                    valid_scores = [s for s in scorelines if s[0] == s[1]]
-                    
-                if not valid_scores: valid_scores = scorelines # Failsafe
-                
-                mode_ga, mode_gb = Counter(valid_scores).most_common(1)[0][0]
+                # Reverted to pure statistical mode (allowing natural draws)
+                mode_ga, mode_gb = Counter(scorelines).most_common(1)[0][0]
                 
                 advancer = None
                 if is_knockout:
