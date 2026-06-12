@@ -275,7 +275,7 @@ def load_data():
         code = name_to_code.get(team)
         elo = 1767 if team == 'Scotland' else elo_dict.get(code, 1500)
         
-        elo_baseline = elo / 30.0 
+        elo_baseline = elo / 35.0 
         starting_xi = (starting_xi * 0.4) + (elo_baseline * 0.6)
         bench = (bench * 0.4) + (elo_baseline * 0.6)
         
