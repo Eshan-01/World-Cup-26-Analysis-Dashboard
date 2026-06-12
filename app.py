@@ -12,7 +12,7 @@ warnings.filterwarnings('ignore')
 # --- 1. PAGE CONFIG & THEME ---
 st.set_page_config(page_title="Eshans World Cup Analysis Dashboard", layout="wide")
 
-# Premium CSS Injection
+# Premium CSS Injection (Now with Mobile Responsiveness!)
 st.markdown("""
     <style>
     @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500;700&family=Playfair+Display:ital,wght@0,700;1,400&display=swap');
@@ -24,10 +24,7 @@ st.markdown("""
     }
     
     /* Font Configurations */
-    body, p, span, label, li, div {
-        font-family: 'Inter', sans-serif;
-        color: #1A1A1A;
-    }
+    body, p, span, label, li, div { font-family: 'Inter', sans-serif; color: #1A1A1A; }
     
     /* Hero Title with Gradient */
     .hero-title {
@@ -46,36 +43,16 @@ st.markdown("""
     
     /* Educational Text Boxes */
     .explainer-box {
-        background-color: #FFF8EE;
-        border-left: 4px solid #C8A45D;
-        padding: 15px 20px;
-        margin-bottom: 25px;
-        border-radius: 0 4px 4px 0;
+        background-color: #FFF8EE; border-left: 4px solid #C8A45D;
+        padding: 15px 20px; margin-bottom: 25px; border-radius: 0 4px 4px 0;
         box-shadow: 0 2px 4px rgba(0,0,0,0.02);
     }
-    .explainer-title {
-        font-family: 'Outfit', sans-serif;
-        color: #004225;
-        font-size: 16px;
-        font-weight: 700;
-        margin-bottom: 5px;
-        text-transform: uppercase;
-        letter-spacing: 0.05em;
-    }
-    .explainer-text {
-        font-family: 'Inter', sans-serif;
-        color: #5F5F5F;
-        font-size: 14px;
-        line-height: 1.5;
-    }
+    .explainer-title { font-family: 'Outfit', sans-serif; color: #004225; font-size: 16px; font-weight: 700; margin-bottom: 5px; text-transform: uppercase; letter-spacing: 0.05em; }
+    .explainer-text { font-family: 'Inter', sans-serif; color: #5F5F5F; font-size: 14px; line-height: 1.5; }
     
-    h1, h2, h3, h4, h5, h6 {
-        font-family: 'Outfit', sans-serif !important;
-        color: #004225 !important;
-        font-weight: 700 !important;
-    }
+    h1, h2, h3, h4, h5, h6 { font-family: 'Outfit', sans-serif !important; color: #004225 !important; font-weight: 700 !important; }
     
-    /* ---- DROP-DOWN MENU FIX ---- */
+    /* Dropdown Fix */
     .stSelectbox div[data-baseweb="select"] > div { background-color: #FFF8EE !important; border: 2px solid #E4D7C4 !important; }
     .stSelectbox div[data-baseweb="select"] span { color: #004225 !important; font-family: 'Outfit', sans-serif; font-weight: 600; }
     div[data-baseweb="select"] input { color: #004225 !important; }
@@ -84,70 +61,46 @@ st.markdown("""
     li[role="option"] { color: #004225 !important; font-family: 'Outfit', sans-serif !important; font-weight: 600 !important; background-color: #FFF8EE !important;}
     li[role="option"]:hover { background-color: #D9E9E0 !important; color: #004225 !important; }
     
-    /* ----- BUTTON STYLING ----- */
+    /* Button Styling */
     button[kind="primary"] {
         background: linear-gradient(135deg, #B78700 0%, #9A6D00 100%) !important;
         background-image: url("https://www.transparenttextures.com/patterns/cubes.png") !important;
-        color: #FFFFFF !important;
-        height: 120px !important;
-        font-size: 32px !important;
-        font-family: 'Playfair Display', serif !important;
-        font-weight: 700 !important;
-        border: 2px solid #E4D7C4 !important;
-        box-shadow: 0 10px 30px rgba(183, 135, 0, 0.3) !important;
-        border-radius: 12px !important;
-        transition: all 0.3s ease-in-out !important;
+        color: #FFFFFF !important; height: 120px !important; font-size: 32px !important;
+        font-family: 'Playfair Display', serif !important; font-weight: 700 !important;
+        border: 2px solid #E4D7C4 !important; box-shadow: 0 10px 30px rgba(183, 135, 0, 0.3) !important;
+        border-radius: 12px !important; transition: all 0.3s ease-in-out !important;
     }
-    button[kind="primary"]:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 15px 40px rgba(183, 135, 0, 0.5) !important;
-    }
+    button[kind="primary"]:hover { transform: translateY(-5px); box-shadow: 0 15px 40px rgba(183, 135, 0, 0.5) !important; }
 
     button[kind="secondary"] {
         background: linear-gradient(135deg, #FFF8EE 0%, #FFF0DB 100%) !important;
         background-image: url("https://www.transparenttextures.com/patterns/cream-paper.png") !important;
-        color: #004225 !important;
-        height: 100px !important;
-        font-size: 20px !important;
-        font-family: 'Outfit', sans-serif !important;
-        font-weight: 600 !important;
-        border: 1px solid #E4D7C4 !important;
-        box-shadow: 0 4px 10px rgba(0,0,0,0.05) !important;
-        border-radius: 8px !important;
-        transition: all 0.2s ease-in-out !important;
+        color: #004225 !important; height: 100px !important; font-size: 20px !important;
+        font-family: 'Outfit', sans-serif !important; font-weight: 600 !important;
+        border: 1px solid #E4D7C4 !important; box-shadow: 0 4px 10px rgba(0,0,0,0.05) !important;
+        border-radius: 8px !important; transition: all 0.2s ease-in-out !important;
     }
-    button[kind="secondary"]:hover {
-        background: #004225 !important; background-image: none !important; color: #FFFFFF !important; border-color: #004225 !important; transform: translateY(-3px);
-    }
+    button[kind="secondary"]:hover { background: #004225 !important; background-image: none !important; color: #FFFFFF !important; border-color: #004225 !important; transform: translateY(-3px); }
     
     .nav-back>button { height: 45px !important; font-size: 16px !important; background: #004225 !important; color: #FFFFFF !important; border: none !important; border-radius: 4px !important; }
 
-    /* Profile Panels */
+    /* Profile Panels & Grids */
     .profile-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 24px; }
     .profile-panel { background-color: #FFF8EE; border: 1px solid #E4D7C4; border-radius: 4px; padding: 20px; }
     .profile-label { font-family: 'Outfit', sans-serif; font-size: 13px; text-transform: uppercase; letter-spacing: 0.05em; color: #5F5F5F; margin-bottom: 6px; }
     .profile-value { font-family: 'Inter', sans-serif; font-size: 16px; font-weight: 500; color: #1A1A1A; }
-    
     .profile-panel p, .profile-panel b { color: #1A1A1A !important; margin-bottom: 8px; }
     
-    /* Comparison Matrix CSS */
-    .comp-matrix {
-        display: grid;
-        grid-template-columns: 1fr 300px 1fr; 
-        gap: 12px;
-        margin-bottom: 15px;
-        align-items: center;
-    }
+    .comp-matrix { display: grid; grid-template-columns: 1fr 300px 1fr; gap: 12px; margin-bottom: 15px; align-items: center; }
     .comp-val-left { text-align: right; font-family: 'JetBrains Mono', monospace; font-weight: 600; color: #004225; font-size: 16px; }
     .comp-val-right { text-align: left; font-family: 'JetBrains Mono', monospace; font-weight: 600; color: #C8A45D; font-size: 16px; }
     .comp-label { text-align: center; font-family: 'Outfit', sans-serif; font-size: 12px; text-transform: uppercase; color: #5F5F5F; font-weight: 600; white-space: nowrap; }
     
-    /* Single Stat Row CSS */
     .single-stat-row { display: flex; justify-content: space-between; border-bottom: 1px solid #E4D7C4; padding: 10px 0; }
     .single-stat-label { font-family: 'Outfit', sans-serif; font-size: 13px; text-transform: uppercase; color: #5F5F5F; font-weight: 600; }
     .single-stat-val { font-family: 'JetBrains Mono', monospace; font-weight: 600; color: #004225; font-size: 16px; }
     
-    /* Football Pitch */
+    /* Pitch */
     .pitch-container { width: 100%; max-width: 500px; aspect-ratio: 4 / 5; background-color: #004225; border: 2px solid #FFFFFF; border-radius: 4px; margin: 0 auto; position: relative; overflow: hidden; }
     .pitch-center-circle { position: absolute; top: 50%; left: 50%; width: 25%; aspect-ratio: 1; border: 2px solid #FFFFFF; border-radius: 50%; transform: translate(-50%, -50%); }
     .pitch-half-line { position: absolute; top: 50%; left: 0; width: 100%; height: 2px; background-color: #FFFFFF; }
@@ -158,6 +111,17 @@ st.markdown("""
     .bracket-card { background-color: #FFF8EE; border: 1px solid #E4D7C4; border-radius: 4px; padding: 15px; text-align: center; margin-bottom: 15px; }
     .bracket-matchup { font-family: 'Inter', sans-serif; font-size: 14px; color: #1A1A1A; margin-bottom: 8px; }
     .bracket-winner { font-family: 'Outfit', sans-serif; font-size: 16px; font-weight: 700; color: #004225; }
+    
+    /* MOBILE RESPONSIVENESS OVERRIDES */
+    @media (max-width: 768px) {
+        .hero-title { font-size: 45px !important; padding-top: 5vh; }
+        button[kind="primary"] { font-size: 20px !important; height: 80px !important; }
+        button[kind="secondary"] { font-size: 16px !important; height: auto !important; padding: 15px !important; }
+        .profile-grid { grid-template-columns: 1fr !important; }
+        .comp-matrix { grid-template-columns: 1fr !important; gap: 4px; }
+        .comp-val-left, .comp-val-right { text-align: center !important; }
+        .comp-label { white-space: normal; margin-bottom: 10px; }
+    }
     </style>
 """, unsafe_allow_html=True)
 
@@ -168,7 +132,7 @@ if 'page' not in st.session_state:
 def set_page(page_name):
     st.session_state.page = page_name
 
-# --- 3. DATA ARCHITECTURE ENGINE ---
+# --- 3. UNIFIED DATA ARCHITECTURE ENGINE ---
 @st.cache_data
 def load_data():
     try:
@@ -275,9 +239,10 @@ def load_data():
         code = name_to_code.get(team)
         elo = 1767 if team == 'Scotland' else elo_dict.get(code, 1500)
         
-        elo_baseline = elo / 35.0 
-        starting_xi = (starting_xi * 0.4) + (elo_baseline * 0.6)
-        bench = (bench * 0.4) + (elo_baseline * 0.6)
+        # --- GLOBAL UNIFIED MATH ---
+        elo_baseline = elo / 30.0 
+        starting_xi = (starting_xi * 0.35) + (elo_baseline * 0.65)
+        bench = (bench * 0.35) + (elo_baseline * 0.65)
         
         raw_form = form_scores.get(team, 65.0)
         adjusted_form = (raw_form * 0.4) + (elo_baseline * 0.6)
@@ -285,6 +250,11 @@ def load_data():
         pedigree_value = pedigree_boosts.get(team, 0.0)
         if team == 'United States' and 'USA' in pedigree_boosts: 
             pedigree_value = pedigree_boosts['USA']
+            
+        # Realistic 3% Host Advantage 
+        if team in ['United States', 'Mexico', 'Canada']:
+            starting_xi *= 1.03
+            bench *= 1.03
             
         group_name = f"Group {group_dict.get(code, 'Unknown')}"
         squad_metrics[team] = {
@@ -410,7 +380,7 @@ if st.session_state.page == 'Rankings':
     st.markdown(f"""
     <div class='explainer-box'>
         <div class='explainer-title'>Understanding the Leaderboard</div>
-        <div class='explainer-text'>The 4rs Score represents the true competitive weight of a nation. The algorithm measures the raw talent of the starting lineup at 40 percent and anchors the remaining 60 percent to historical Elo ratings. This balance ensures that individual superstars do not falsely inflate the rating of an entire national team.</div>
+        <div class='explainer-text'>The 4rs Score represents the true competitive weight of a nation. The algorithm measures the raw talent of the starting lineup at 35 percent and anchors the remaining 65 percent to historical Elo ratings. This balance ensures that individual superstars do not falsely inflate the rating of an entire national team.</div>
     </div>
     """, unsafe_allow_html=True)
     st.dataframe(power_df, use_container_width=True, height=750)
@@ -446,7 +416,7 @@ elif st.session_state.page == 'Deep Dive':
             angularaxis=dict(tickfont=dict(color='#1A1A1A', family='Inter', size=14), gridcolor='#E4D7C4', linecolor='#E4D7C4')
         ), 
         showlegend=False, paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='rgba(0,0,0,0)', 
-        font=dict(color='#1A1A1A', size=13, family='Inter'), title=dict(text="Positional Unit Power", font=dict(color='#1A1A1A'))
+        font=dict(color='#1A1A1A', size=13, family='Inter'), title=dict(text="Positional Unit Power", font=dict(color='#1A1A1A')), margin=dict(l=20, r=20, t=40, b=20)
     )
     with col_g1: st.plotly_chart(fig_radar, theme=None, use_container_width=True)
 
@@ -457,7 +427,7 @@ elif st.session_state.page == 'Deep Dive':
         barmode='group', paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='rgba(0,0,0,0)', 
         font=dict(family='Inter', color='#1A1A1A'), title=dict(text="Derived Phase Efficiency Indicators (%)", font=dict(color='#1A1A1A')),
         xaxis=dict(tickfont=dict(color='#1A1A1A'), gridcolor='#E4D7C4', title_font=dict(color='#1A1A1A')),
-        yaxis=dict(tickfont=dict(color='#1A1A1A'), title_font=dict(color='#1A1A1A'))
+        yaxis=dict(tickfont=dict(color='#1A1A1A'), title_font=dict(color='#1A1A1A')), margin=dict(l=20, r=20, t=40, b=20)
     )
     with col_g2: st.plotly_chart(fig_bar, theme=None, use_container_width=True)
 
@@ -517,7 +487,7 @@ elif st.session_state.page == 'Comparison':
             angularaxis=dict(tickfont=dict(color='#1A1A1A', family='Inter', size=14), gridcolor='#E4D7C4', linecolor='#E4D7C4')
         ), 
         showlegend=True, paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='rgba(0,0,0,0)', 
-        font=dict(color='#1A1A1A', size=13, family='Inter'), title=dict(text="Positional Unit Power Comparison", font=dict(color='#1A1A1A'))
+        font=dict(color='#1A1A1A', size=13, family='Inter'), title=dict(text="Positional Unit Power Comparison", font=dict(color='#1A1A1A')), margin=dict(l=20, r=20, t=40, b=20)
     )
 
     # --- GRAPH 2: BAR CHART MATRIX ---
@@ -530,7 +500,7 @@ elif st.session_state.page == 'Comparison':
         barmode='group', paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='rgba(0,0,0,0)', 
         font=dict(family='Inter', color='#1A1A1A'), title=dict(text="Derived Phase Efficiency Indicators (%)", font=dict(color='#1A1A1A')),
         xaxis=dict(tickfont=dict(color='#1A1A1A'), gridcolor='#E4D7C4', title_font=dict(color='#1A1A1A')),
-        yaxis=dict(tickfont=dict(color='#1A1A1A'), title_font=dict(color='#1A1A1A'))
+        yaxis=dict(tickfont=dict(color='#1A1A1A'), title_font=dict(color='#1A1A1A')), margin=dict(l=20, r=20, t=40, b=20)
     )
 
     col_g1, col_g2 = st.columns([1, 1])
@@ -612,7 +582,6 @@ elif st.session_state.page == 'MatchFlow':
         with st.spinner("Calculating minute-by-minute momentum shifts..."):
             m_a, m_b = squad_metrics[team_home], squad_metrics[team_away]
             
-            # Use original stable math
             power_diff = (m_a['Starting_XI'] - m_b['Starting_XI']) / 30.0     
             form_diff = (m_a['Form_25'] - m_b['Form_25']) / 100.0    
             elo_diff = (m_a['Elo'] - m_b['Elo']) / 700.0   
@@ -663,7 +632,8 @@ elif st.session_state.page == 'MatchFlow':
                 xaxis_title="Match Minute", yaxis_title="Cumulative Expected Goals (xG)", 
                 paper_bgcolor='rgba(0,0,0,0)', plot_bgcolor='rgba(0,0,0,0)', font=dict(family='Inter', color='#1A1A1A'),
                 xaxis=dict(tickfont=dict(color='#1A1A1A'), title_font=dict(color='#1A1A1A'), gridcolor='#E4D7C4'),
-                yaxis=dict(tickfont=dict(color='#1A1A1A'), title_font=dict(color='#1A1A1A'), gridcolor='#E4D7C4')
+                yaxis=dict(tickfont=dict(color='#1A1A1A'), title_font=dict(color='#1A1A1A'), gridcolor='#E4D7C4'),
+                margin=dict(l=20, r=20, t=40, b=20)
             )
             st.plotly_chart(fig, theme=None, use_container_width=True)
 
@@ -683,7 +653,6 @@ elif st.session_state.page == 'Simulator':
             def simulate_match(team_a, team_b, is_knockout=False, sims=10000):
                 metric_a, metric_b = squad_metrics[team_a], squad_metrics[team_b]
                 
-                # Reverted to pure, stable mathematics to ensure true statistical modes
                 power_diff = (metric_a['Starting_XI'] - metric_b['Starting_XI']) / 30.0     
                 form_diff = (metric_a['Form_25'] - metric_b['Form_25']) / 100.0    
                 elo_diff = (metric_a['Elo'] - metric_b['Elo']) / 700.0   
@@ -704,7 +673,6 @@ elif st.session_state.page == 'Simulator':
                 wins_a, wins_b, draws = int(np.sum(goals_a > goals_b)), int(np.sum(goals_b > goals_a)), int(np.sum(goals_a == goals_b))
                 scorelines = list(zip(goals_a, goals_b))
                 
-                # --- FIXED: Pulls the absolute true statistical mode ---
                 mode_ga, mode_gb = Counter(scorelines).most_common(1)[0][0]
                 
                 advancer = None
