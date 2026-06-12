@@ -12,7 +12,7 @@ warnings.filterwarnings('ignore')
 # --- 1. PAGE CONFIG & THEME ---
 st.set_page_config(page_title="Eshans World Cup Analysis Dashboard", layout="wide")
 
-# Premium CSS Injection (Now with Mobile Responsiveness!)
+# Premium CSS Injection (With Mobile Responsiveness)
 st.markdown("""
     <style>
     @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500;700&family=Playfair+Display:ital,wght@0,700;1,400&display=swap');
@@ -647,7 +647,7 @@ elif st.session_state.page == 'Simulator':
     </div>
     """, unsafe_allow_html=True)
     
-    if st.button("Execute Model 16.1 Simulation", use_container_width=True):
+    if st.button("Execute Model 16.2 Simulation", use_container_width=True):
         with st.spinner("Processing tactical configurations and executing bracket arrays..."):
 
             def simulate_match(team_a, team_b, is_knockout=False, sims=10000):
@@ -670,10 +670,22 @@ elif st.session_state.page == 'Simulator':
                 goals_a = np.random.poisson(lambda_a, sims)
                 goals_b = np.random.poisson(lambda_b, sims)
                 
-                wins_a, wins_b, draws = int(np.sum(goals_a > goals_b)), int(np.sum(goals_b > goals_a)), int(np.sum(goals_a == goals_b))
+                wins_a = int(np.sum(goals_a > goals_b))
+                wins_b = int(np.sum(goals_b > goals_a))
+                draws = int(np.sum(goals_a == goals_b))
                 scorelines = list(zip(goals_a, goals_b))
                 
-                mode_ga, mode_gb = Counter(scorelines).most_common(1)[0][0]
+                # --- FIXED: MACRO-OUTCOME FILTERING ---
+                if wins_a > wins_b and wins_a > draws:
+                    valid_scores = [s for s in scorelines if s[0] > s[1]]
+                elif wins_b > wins_a and wins_b > draws:
+                    valid_scores = [s for s in scorelines if s[1] > s[0]]
+                else:
+                    valid_scores = [s for s in scorelines if s[0] == s[1]]
+                    
+                if not valid_scores: valid_scores = scorelines # Failsafe
+                
+                mode_ga, mode_gb = Counter(valid_scores).most_common(1)[0][0]
                 
                 advancer = None
                 if is_knockout:
